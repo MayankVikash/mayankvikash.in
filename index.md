@@ -5,7 +5,6 @@ description: This is my website built with Jekyll. Check it out to know more abo
 
 ---
 
-# Home | Mayank Vikash 
 
 ![Home  Mayank Vikash](https://mayankvikash.ml/img/home/home-mayankvikash.jpeg)
 
