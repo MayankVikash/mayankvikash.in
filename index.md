@@ -1,3 +1,4 @@
+
 ---
 
 title: Home
@@ -6,7 +7,7 @@ description: This is my website built with Jekyll. Check it out to know more abo
 ---
 
 
-![Home  Mayank Vikash](https://mayankvikash.ml/img/home/home-mayankvikash.jpeg)
+![Home  Mayank Vikash](https://mayankvikash.in/img/home/home-mayankvikash.jpeg)
 
 - Written by Mayank Vikash
 - Last updated October 3, 2022.
@@ -14,19 +15,19 @@ description: This is my website built with Jekyll. Check it out to know more abo
 
 I am Mayank Vikash, a 15-year-old with some experience in how the web work.
 
-I have learned various technologies like HTML, CSS, Javascript, Bootstrap, etc. from Google searches, blogs, Youtube videos, and StackOverflow.
+I have learned various technologies like HTin, CSS, Javascript, Bootstrap, etc. from Google searches, blogs, Youtube videos, and StackOverflow.
 
-I have learned all this and still learning more and have also created several projects, which you can find here: [Posts](https://mayankvikash.ml/posts)
+I have learned all this and still learning more and have also created several projects, which you can find here: [Posts](https://mayankvikash.in/posts)
 
 Check out the latest posts:
 
-[Expansion Formulas in Java](https://mayankvikash.ml/posts/Expansion-Formulas-in-Java/)
+[Expansion Formulas in Java](https://mayankvikash.in/posts/Expansion-Formulas-in-Java/)
 
-[A Report Card in Java.](https://mayankvikash.ml/posts/simple-report-card-in-java.html)
+[A Report Card in Java.](https://mayankvikash.in/posts/simple-report-card-in-java/)
 
-[How to input a number extract and display its prime digits](https://mayankvikash.ml/posts/how-to-input-a-number-and-display-its-prime-digits/)
+[How to input a number extract and display its prime digits](https://mayankvikash.in/posts/how-to-input-a-number-and-display-its-prime-digits/)
 
-I have also built this [news](https://mayankvikash.ml/news) section where I share my project updates.
+I have also built this [news](https://mayankvikash.in/news) section where I share my project updates.
 
 You can also check out my profiles on these platforms:
 
@@ -39,11 +40,11 @@ You can also check out my profiles on these platforms:
 [Tealfeed](https://tealfeed.com/mayankvikash)  
 [Github](https://github.com/MayankVikash)  
 
-Check out [Discussion](https://mayankvikash.ml/discussion) section where you can discuss anything. It is like a forum that is built with Disqus.
+Check out [Discussion](https://mayankvikash.in/discussion) section where you can discuss anything. It is like a forum that is built with Disqus.
 
-![Screenshot of Discussion | Mayank Vikash](https://mayankvikash.ml/img/home/discussion-mayankvikash-screenshot.jpeg)
+![Screenshot of Discussion  Mayank Vikash](https://mayankvikash.in/img/home/discussion-mayankvikash-screenshot.jpeg)
 
-I also have a subdomain [dev.mayankvikash.ml](https://dev.mayankvikash.ml) where I keep posting quite interesting stuff. It is powered by  Hashnode - a blogging community with over 2 Million members. 
+I also have a subdomain [dev.mayankvikash.in](https://dev.mayankvikash.in) where I keep posting quite interesting stuff. It is powered by  Hashnode - a blogging community with over 2 Million members. 
 
 When it comes to posting stories, how can I forget Hackernoon, which is one of my favourite reading platforms and I am also a contributor writer there. I am also going to apply for FreeCodeCamp contributor, so wish me luck!
 
@@ -54,7 +55,7 @@ My inspiration for learning web development came from a video of CodeWtihHarry w
 
 Then, I searched for how to get a free domain so that I can build my site and show it to the world. I registered a free domain from the freenom.com registrar.
 
-With a free .ml domain, I wanted to build a blog but it was not an easy task for a beginner. So, I decided to rather use Jekyll static site generator to build my website and host it on Github.
+With a free .in domain, I wanted to build a blog but it was not an easy task for a beginner. So, I decided to rather use Jekyll static site generator to build my website and host it on Github.
 
 I am also thinking of adding a projects section on this site where I can showcase my projects.
 
@@ -71,7 +72,7 @@ Although I am not always active on this site because of school and studies, I po
 Currently, I am building my URL shortener build entirely with Javascript. It is my favourite project. I have written the logic of the shortener, I just need to build a landing page and a form where you can put the URL. 
 
 Check out the development:
-[https://mayankvikash.ml/news/Why-URLRealm-is-not-ready-yet/](https://mayankvikash.ml/news/Why-URLRealm-is-not-ready-yet/)
+[https://mayankvikash.in/news/Why-URLRealm-is-not-ready-yet/](https://mayankvikash.in/news/Why-URLRealm-is-not-ready-yet/)
 
 I have just got thought of adding a video section to this website where I will share some cool videos made with Adobe After Effects.
 
@@ -93,7 +94,7 @@ Some of my favourite Youtube channels:
 And many others. These guys have taught me lots of things and I am still learning a lot of things from them.
 
 By the way, if you haven't seen it, this was my old portfolio.
-![Old  Portfolio Screenshot](https://mayankvikash.ml/img/home/2022-portfolio-updated-screenshot.jpeg)
+![Old  Portfolio Screenshot](https://mayankvikash.in/img/home/2022-portfolio-updated-screenshot.jpeg)
 
 It is made with Bootstrap and I know it doesn't look that good at all. 
 
