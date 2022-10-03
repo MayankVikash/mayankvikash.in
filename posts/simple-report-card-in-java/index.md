@@ -1,18 +1,7 @@
----
-
-layout: default
-title: Simple Report Card in Java
-description: Java Project to take input of marks of 2 subjects and display Total, Percentage, Highest Marks, Average, and Remarks.
-
----
-
-
-
-
 
 ## A Simple Report Card in Java
 
-![Report-Card-in-Java-Screenshot](https://blogger.googleusercontent.com/img/a/AVvXsEgQeRUV4FpooVIL5vqyZUzNT6_B-Naze4bBRE1pmOeVvIeeL2JMXs4wtaw1FPK0qcllEn1Lj46xeD7snqj-s4WcglcSmqPeCvvLgFYsnAsL6AL8na9He_TkYPBGmlFZFOoInkAcLxwa0GG3NQUuEPfr3Lxu_7xYGsggEX-JAG3uRb3Jepu7g3UU1vFW)
+![Report-Card-in-Java-Screenshot](https://mayankvikash.in/posts/simple-report-card-in-java/java-report-card-screenshot.jpg)
 
 I learned Java last semester, so I thought I should make a project.  
 I searched on Google for Java projects and I found:
@@ -269,14 +258,14 @@ System.out.println("Values are Greator!");
 ```
 
 ### Output:  
-![java-project-simple-report-card-output](https://blogger.googleusercontent.com/img/a/AVvXsEixfYXxVm0gV3VqAYWBnwnczcyyAtf9bd51h7VSmhlwV0anGdBp6NfC5k5wothsN1EXmyhN1m4gh6Jqx36GTJFp_j6jX0lbbriHyTrsbiduug1kqlyDkJ8sPf-hBKIZR-VggoLZ_lmqNJj9Vs7XbSgpY4uyg9Jp1DqJ2nhJXmhlO-hx47dPSH5eyw6s)
+![java-project-simple-report-card-output](https://mayankvikash.in/posts/simple-report-card-in-java/java-project-simple-report-card-output.gif)
 
 Wow great! I am able to make it but it's look little bit easy, let's add some complex things.
 
 ### Write a program to take marks of 15 subjects from the user and display the Total, Percentage, Highest Marks, Average, and Remarks. It should also work if the number of subjects is less than 15 .
 
 Well. looks good. So, starting with formating the old code.
-![commented-out-old-code](https://blogger.googleusercontent.com/img/a/AVvXsEgMuboHvKJxqRxYpcHT4CYemehQTUmRjW5zykTEMXCVbdcuC0HLwtIJsUd3tGj7YVEC_mw6SLGTxdaJWTKS6QsAh0wTzHiUOCSpcjRdEvxm0y94yHpu1IBIBMz6bVLrPZho45HpZQXIpHGxP6hURsURB_5F63vQQPKr8CByLZLGVeYIJa6crWXruD67)
+![commented-out-old-code](https://mayankvikash.in/posts/simple-report-card-in-java/commented-out-old-code.jpg)
 
 Then, I took a variable and asked how many subject are there in total:
 
@@ -2951,17 +2940,8 @@ This is how the code looks like if the total subjcts are 15:
 
 
 
-[Originally Published](https://mayankvikash.ml/posts/simple-report-card-in-java.html)
+Originally Published at: https://mayankvikash.in/posts/simple-report-card-in-java/
 
-[Check out other posts](https://mayankvikash.ml/posts/)
-
-[Latest updates](https://mayankvikash.ml//news/)
-
-[HTML Sitemap](https://mayankvikash.ml/sitemap.html)
-
-[Sitemap](https://mayankvikash.ml/sitemap.xml)
-
-Made by  [Mayank Vikash](https://mayankvikash.ml/)
-
+Check out other posts: https://mayankvikash.in/posts/
 
 
