@@ -1,9 +1,11 @@
 ---
 
-title: Mayank Vikash
+title: Home
 description: This is my website built with Jekyll. Check it out to know more about me.
 
 ---
+
+# Home | Mayank Vikash 
 
 ![Home  Mayank Vikash](https://mayankvikash.ml/img/home/home-mayankvikash.jpeg)
 
