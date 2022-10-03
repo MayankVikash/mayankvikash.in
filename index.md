@@ -1,11 +1,11 @@
 ---
 
 title: Home
-description: This is my website, check it out to know more about me.
+description: This is my website built with Jekyll. Check it out to know more about me.
 
 ---
 
-![Home | Mayank Vikash](https://mayankvikash.ml/img/home/home-mayankvikash.jpeg)
+![Home  Mayank Vikash](https://mayankvikash.ml/img/home/home-mayankvikash.jpeg)
 
 - Written by Mayank Vikash
 - Last updated October 3, 2022.
