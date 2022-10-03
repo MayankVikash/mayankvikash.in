@@ -1,3 +1,4 @@
+
 ---
 
 title: Home
@@ -71,7 +72,7 @@ Although I am not always active on this site because of school and studies, I po
 Currently, I am building my URL shortener build entirely with Javascript. It is my favourite project. I have written the logic of the shortener, I just need to build a landing page and a form where you can put the URL. 
 
 Check out the development:
-[https://mayankvikash.in/news/Why-URLRealm-is-not-ready-yet/](https://mayankvikash.in/news/Why-URLRealm-is-not-ready-yet/)
+[Why URLRealm is not ready yet?](https://mayankvikash.in/news/Why-URLRealm-is-not-ready-yet/)
 
 I have just got thought of adding a video section to this website where I will share some cool videos made with Adobe After Effects.
 
@@ -107,7 +108,7 @@ I also read a lot of blogs, why don't you check them out too:
 - Coding Horror
 - Geeks for Geeks
 
-I have just bought a new domain from GoDaddy. [mayankvikash.in](https://mayankvikash.in/). I am building this website with Jekyll and it uses the Cayman theme and is hosted on Github. Check out the repository: [https://github.com/MayankVikash/mayankvikash.in](https://github.com/MayankVikash/mayankvikash.in)
+I have just bought a new domain from GoDaddy. [mayankvikash.in](https://mayankvikash.in/). I am building this website with Jekyll and it uses the Cayman theme and is hosted on Github. Check out the repository: [mayankvikash.in Github Repository](https://github.com/MayankVikash/mayankvikash.in)
 
 I have some future post ideas for this website. Some of them are:
 - Multiplication Table in Java
@@ -126,37 +127,6 @@ You can contact me using one of the options below to ask me regarding a particul
 
 You can get in touch through Twitter, my profile [@MayankVikash1](https://twitter.com/MayankVikash1)
 
-Github Discussion: [https://github.com/MayankVikash/mayankvikash.in/discussions](https://github.com/MayankVikash/mayankvikash.in/discussions)
+Github Discussion: [mayankvikash.in Github DIscussion](https://github.com/MayankVikash/mayankvikash.in/discussions)
 
 If you have come this long reading this page then I truly appreciate it and hope that it was worth your time.  Thanks for reading!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
