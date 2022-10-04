@@ -9,8 +9,8 @@ description: Java program to display the multiplication of the input number from
 ![Multiplication Table in Java](https://mayankvikash.in/posts/multiplication-table-in-java/multiplication-tables-in-java.webp)
 
  - Written by Mayank Vikash
- - Published on
- - Last updated
+ - Published on 4 October, 2022
+ - Last updated Oct 4, 2022
 
 In this post, I am going to show you how to take input from the user to calculate and display the multiplication table of the given number from 1 to 10.
 
