@@ -17,5 +17,7 @@ Here you will get a sitemap for the latest posts published on this website:
 
 [How to input a number extract and display its prime digits](https://mayankvikash.ml/posts/how-to-input-a-number-and-display-its-prime-digits/)
 
+[Multiplication Table in Java](https://mayankvikash.in/posts/multiplication-table-in-java/)
+
 [Back to home](https://mayankvikash.ml/)
 
