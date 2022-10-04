@@ -1,6 +1,7 @@
-
 ---
+
 title: Multiplication Table in Java
+
 description: Java program to display the multiplication of the input number from 1 to 10.
 
 ---
