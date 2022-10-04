@@ -1,22 +1,48 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>http://mayankvikash.in/</loc>
-    <lastmod>2022-10-03</lastmod>
-  </url>
-  <url>
-    <loc>http://mayankvikash.in/posts</loc>
-    <lastmod>2022-10-03</lastmod>
-  </url>
-
-  <url>
-    <loc></loc>
-    <lastmod>2022-10-03</lastmod>
-  </url>
-  <url>
-    <loc>http://mayankvikash.in/news</loc>
-    <lastmod>2022-10-03</lastmod>
-  </url>
-
-
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"> 
+<url>
+<loc>https://mayankvikash.in/posts</loc>
+<changefreq>monthly</changefreq>
+<lastmod>2022-10-04</lastmod>
+</url>
+<url>
+<loc>https://mayankvikash.in/posts/Expansion-Formulas-in-Java/</loc>
+<changefreq>monthly</changefreq>
+<lastmod>2022-10-04</lastmod>
+</url>
+<url>
+<loc>https://mayankvikash.in/posts/simple-report-card-in-java/</loc>
+<changefreq>monthly</changefreq>
+<lastmod>2022-10-04</lastmod>
+</url>
+<url>
+<loc>https://mayankvikash.in/posts/how-to-input-a-number-and-display-its-prime-digits/</loc>
+<changefreq>monthly</changefreq>
+<lastmod>2022-10-04</lastmod>
+</url>
+<url>
+<loc>https://mayankvikash.in/news</loc>
+<changefreq>monthly</changefreq>
+<lastmod>2022-10-04</lastmod>
+</url>
+<url>
+<loc>https://mayankvikash.in/discussion</loc>
+<changefreq>monthly</changefreq>
+<lastmod>2022-10-04</lastmod>
+</url>
+<url>
+<loc>https://mayankvikash.in/news/Why-URLRealm-is-not-ready-yet/</loc>
+<changefreq>monthly</changefreq>
+<lastmod>2022-10-04</lastmod>
+</url>
+<url>
+<loc>https://mayankvikash.in/</loc>
+<changefreq>monthly</changefreq>
+<lastmod>2022-10-04</lastmod>
+</url>
+<url>
+<loc>https://mayankvikash.in/posts/multiplication-table-in-java/</loc>
+<changefreq>monthly</changefreq>
+<lastmod>2022-10-04</lastmod>
+</url>
 </urlset>
