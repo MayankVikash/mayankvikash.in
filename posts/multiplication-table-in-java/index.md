@@ -12,7 +12,9 @@ description: Java program to display the multiplication of the input number from
  - Published on 4 October, 2022
  - Last updated Oct 4, 2022
 
-In this post, I am going to show you how to take input from the user to calculate and display the multiplication table of the given number from 1 to 10.
+Ever wondered how to take input from the user to calculate and display the multiplication table of the given number from 1 to 10?
+
+Let write a program in Java to perform this task.
 
 This program can be solved by 2 methods, first one is long and time-consuming whereas the second one needs fewer lines of code but it is not beginners friendly.
 
@@ -206,16 +208,3 @@ do{
 
 ```
 Thanks for reading. If you have learned something. Let me know [@MayankVikash1](https://twitter.com/MayankVikash1)
-
-
-
-
-
-
-
-
-
-
-
-
-
