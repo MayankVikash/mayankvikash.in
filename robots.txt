@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://mayankvikash.in/sitemap.xml
