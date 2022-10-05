@@ -7,7 +7,7 @@ description: This is my website built with Jekyll. Check it out to know more abo
 ---
 
 
-![Home  Mayank Vikash](https://mayankvikash.in/img/home/home-mayankvikash.jpeg)
+![Home  Mayank Vikash](https://mayankvikash.in/img/home/Home-Mayank-Vikash.webp)
 
 - Written by Mayank Vikash
 - Last updated October 3, 2022.
