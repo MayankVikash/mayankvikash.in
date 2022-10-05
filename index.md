@@ -31,20 +31,34 @@ I have also built this [news](https://mayankvikash.in/news) section where I shar
 
 You can also check out my profiles on these platforms:
 
-[Hashnode](https://hashnode.com/@MayankVikash)  
+[Hashnode](https://hashnode.com/@MayankVikash)
+
+  
 [Hackernoon](https://hackernoon.com/u/mayankvikash)  
+
+
 [Dev Community](https://dev.to/mayankvikash)  
+
+
 [Twitter](https://twitter.com/MayankVikash1)  
+
+
 [FreeCodeCamp](https://www.freecodecamp.org/mayankvikash)  
+
+
 [LinkedIn](https://in.linkedin.com/in/mayank-vikash-466972200)  
-[Tealfeed](https://tealfeed.com/mayankvikash)  
+
+
+[Tealfeed](https://tealfeed.com/mayankvikash) 
+
+ 
 [Github](https://github.com/MayankVikash)  
 
 Check out [Discussion](https://mayankvikash.in/discussion) section where you can discuss anything. It is like a forum that is built with Disqus.
 
 ![Screenshot of Discussion  Mayank Vikash](https://mayankvikash.in/img/home/discussion-mayankvikash-screenshot.jpeg)
 
-I also have a subdomain [dev.mayankvikash.in](https://dev.mayankvikash.in) where I keep posting quite interesting stuff. It is powered by  Hashnode - a blogging community with over 2 Million members. 
+I also have a subdomain [dev.mayankvikash.ml](https://dev.mayankvikash.ml) where I keep posting quite interesting stuff. It is powered by  Hashnode - a blogging community with over 2 Million members. 
 
 When it comes to posting stories, how can I forget Hackernoon, which is one of my favourite reading platforms and I am also a contributor writer there. I am also going to apply for FreeCodeCamp contributor, so wish me luck!
 
