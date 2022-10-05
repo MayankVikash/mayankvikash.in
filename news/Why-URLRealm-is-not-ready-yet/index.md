@@ -8,9 +8,9 @@ date: 2022-09-10T18:17:10Z
 
 - Written by Mayank Vikash
 - Published September 10, 2022
-- Last updated: Sep 10, 2022
+- Last updated: Oct 5, 2022
 
-![URLRealm Logo](https://mayankvikash.ml/news/Why-URLRealm-is-not-ready-yet/URLRealm-logo.webp)
+![URLRealm Logo](https://mayankvikash.in/news/Why-URLRealm-is-not-ready-yet/URLRealm-logo.webp)
 URLRealm is a URL-Shortener programmed in JavaScript. I wrote an announcement post almost a year ago. So what happened to it? Where is it? Is there any progress in development? How long will it take? I will explain all the points in this post. So, stay tuned.
 
 ### What happened?
@@ -21,7 +21,7 @@ Being a student, it's hard for me to follow hobbies and study. But still, I try 
 
 Now that I remember about it again, I am going to make sure I will complete it this time. I have already before the logic part of how this URL shortener will work, in Javascript.
 
-![Screenshot of index.html file of URLRealm in VS Code](https://mayankvikash.ml/news/Why-URLRealm-is-not-ready-yet/urlrealm-vscode-js-screenshot.webp)
+![Screenshot of index.html file of URLRealm in VS Code](https://mayankvikash.in/news/Why-URLRealm-is-not-ready-yet/urlrealm-vscode-js-screenshot.webp)
 
 ### How long will it take?
 I have already written the logic part so, now I only have to design the website for URLRealm.  I have unit tests and after that, I have 1 week holiday so during that time I will design the home page. 
