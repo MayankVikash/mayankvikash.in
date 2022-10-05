@@ -21,7 +21,7 @@ Here you will get a sitemap for the latest posts published on this website:
 
 [Multiplication Table in Java](https://mayankvikash.in/posts/multiplication-table-in-java/)
 
-[Top 50 IT and Computer questions for quizzes](mayankvikash.in/posts/top-50-it-and-computer-questions/)
+[Top 50 IT and Computer questions for quizzes](https://mayankvikash.in/posts/top-50-it-and-computer-questions/)
 
 [Back to home](https://mayankvikash.ml/)
 
