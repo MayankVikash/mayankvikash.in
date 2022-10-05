@@ -15,6 +15,6 @@ Thanks for visiting!
 This is a list of articles you can read:
 
 
-[Why URLRealm is not ready yet?](https://mayankvikash.ml/news/Why-URLRealm-is-not-ready-yet/)
+[Why URLRealm is not ready yet?](https://mayankvikash.in/news/Why-URLRealm-is-not-ready-yet/)
 
-[URLRealm](https://mayankvikash.ml/news/URLRealm/)
+[URLRealm](https://mayankvikash.in/news/URLRealm/)
