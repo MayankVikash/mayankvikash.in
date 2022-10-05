@@ -1,13 +1,13 @@
 ---
 title: Top 50 IT and Computer questions.
 
-description: 50 IT and Computer Questions to prepare for quizes
+description: 50 IT and Computer Questions to prepare for quizzes
 
 
 ---
 
 - Written By Mayank Vikash
-- Published on 5th October, 2022
+- Published on 5th October 2022
 - Last updated Oct 5, 2022
 
 
