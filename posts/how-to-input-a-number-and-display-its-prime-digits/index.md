@@ -6,7 +6,7 @@ description: Program in java to input a number and display its prime digits.
 
 
 
-![How to input a number and display its prime digits?](https://dev.mayankvikash.ml/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1663434277253%2F0VzaTz-zi.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=3840&q=75)
+![How to input a number and display its prime digits?](https://mayankvikash.in/posts/how-to-input-a-number-and-display-its-prime-digits/0VzaTz-zi.jpg)
 
 [Mayank Vikash](https://twitter.com/MayankVikash1)
 
@@ -23,7 +23,7 @@ A few days ago, I had a computer test and I got this program which you can read 
 
 So, I tried solving that program again myself and after removing some logical errors, I finally made it. In this article, I am going to share how I made the program with you.
 
-![Screenshot of the program](https://cdn.hashnode.com/res/hashnode/image/upload/v1663378405618/wzSjJFy1d.jpeg?auto=compress,format&format=webp)
+![Screenshot of the program](https://mayankvikash.in/posts/how-to-input-a-number-and-display-its-prime-digits/wzSjJFy1d.jpeg)
 
 ### Let's try thinking of the logic.
 
@@ -145,6 +145,6 @@ public class PrimeDigit{
 
 ### Output
 
-![Program output](https://cdn.hashnode.com/res/hashnode/image/upload/v1663430508544/pkH95Flbc.jpeg?auto=compress,format&format=webp)
+![Program output](https://mayankvikash.in/posts/how-to-input-a-number-and-display-its-prime-digits/pkH95Flbc.jpeg)
 
 
