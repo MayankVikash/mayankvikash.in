@@ -7,9 +7,9 @@ title: Expansion Formulas in Java
 description: A simple java program to take the input a and b and display the output based on the formula selected by the user.
 
 ---
-![Expansions Formulae Program in Java](https://mayankvikash.ml/posts/Expansion-Formulas-in-Java/exp-frmula-java.webp)
+![Expansions Formulae Program in Java](https://mayankvikash.in/posts/Expansion-Formulas-in-Java/exp-frmula-java.webp)
 I was practising Maths and a thought came up to my mind that I should make a program in Java that could take the input in variables 'a' and 'b' and then it will ask the user which formulae of expansion they want to perform.
-![Asking users which formulae they want to use](https://mayankvikash.ml/posts/Expansion-Formulas-in-Java/java-console-expansion-in-java-ask.webp)
+![Asking users which formulae they want to use](https://mayankvikash.in/posts/Expansion-Formulas-in-Java/java-console-expansion-in-java-ask.webp)
 Something like this.
 Currently, it has only 5 formulas because I am lazy to add more.
 
@@ -50,7 +50,7 @@ The variables a and b will contain the values, input by the user.
 Now, when you have got the values, you just have to put the formula and solve it. This will work for Maths but in Java, you have to do a little bit more work.
 
 First, there is a condition, which will execute the formulae which the user has entered.
-![Condition Statement](https://mayankvikash.ml/posts/Expansion-Formulas-in-Java/exp-formula-java-condition.webp)
+![Condition Statement](https://mayankvikash.in/posts/Expansion-Formulas-in-Java/exp-formula-java-condition.webp)
 
 For example, if the user entered choice 1,  the program will calculate (a+b)² from the given values of a and b.
 
@@ -92,7 +92,7 @@ a*a*a + b*b*b + 3*a*b *(a+b)
  a*a*a - b*b*b - 3*a*b *(a-b)
  ```
 Pretty easy, right? Let me know on Twitter [@MayankVikash1](https://twitter.com/MayankVikash1) 
-Made by: [Mayank Vikash](https://mayankvikash.ml/)
+Made by: [Mayank Vikash](https://mayankvikash.in/)
 
 ## Source Code
 ```java
@@ -203,16 +203,16 @@ System.out.println("Wrong Choice");
 ## Output
 ### Image
 
-![Output](https://mayankvikash.ml/posts/Expansion-Formulas-in-Java/exp-formula-in0java-output.webp)
+![Output](https://mayankvikash.in/posts/Expansion-Formulas-in-Java/exp-formula-in0java-output.webp)
 
-Check out [Simple Report Card in Java](https://mayankvikash.ml/posts/simple-report-card-in-java)
+Check out [Simple Report Card in Java](https://mayankvikash.in/posts/simple-report-card-in-java)
 
-Read other [posts](https://mayankvikash.ml/posts/)
+Read other [posts](https://mayankvikash.in/posts/)
 
-[Sitemap](https://mayankvikash.ml/sitemap.xml)
+[Sitemap](https://mayankvikash.in/sitemap.xml)
 
 ### Video
-<iframe src="https://mayankvikash.ml/posts/Expansion-Formulas-in-Java/exp-formula-java-output.webm" allowfullscreen>
+<iframe src="https://mayankvikash.in/posts/Expansion-Formulas-in-Java/exp-formula-java-output.webm" allowfullscreen>
 
 
 
