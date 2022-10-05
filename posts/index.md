@@ -13,11 +13,11 @@ I love making random things and I also post about them here, you can read my pos
 
 Here you will get a sitemap for the latest posts published on this website:
 
-[Expansion Formulas in Java](https://mayankvikash.ml/posts/Expansion-Formulas-in-Java/)
+[Expansion Formulas in Java](https://mayankvikash.in/posts/Expansion-Formulas-in-Java/)
 
-[A Report Card in Java.](https://mayankvikash.ml/posts/simple-report-card-in-java/)
+[A Report Card in Java.](https://mayankvikash.in/posts/simple-report-card-in-java/)
 
-[How to input a number extract and display its prime digits](https://mayankvikash.ml/posts/how-to-input-a-number-and-display-its-prime-digits/)
+[How to input a number extract and display its prime digits](https://mayankvikash.in/posts/how-to-input-a-number-and-display-its-prime-digits/)
 
 [Multiplication Table in Java](https://mayankvikash.in/posts/multiplication-table-in-java/)
 
