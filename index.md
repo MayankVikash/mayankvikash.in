@@ -1,6 +1,6 @@
 ---
 
-title: Home
+title: Home | Mayank Vikash
 description: This is my website built with Jekyll. Check it out to know more about me.
 
 
@@ -15,7 +15,7 @@ description: This is my website built with Jekyll. Check it out to know more abo
 
 I am Mayank Vikash, a 15-year-old with some experience in how the web work.
 
-I have learned various technologies like HTin, CSS, Javascript, Bootstrap, etc. from Google searches, blogs, Youtube videos, and StackOverflow.
+I have learned various technologies like HTML, CSS, Javascript, Bootstrap, etc. from Google searches, blogs, Youtube videos, and StackOverflow.
 
 I have learned all this and still learning more and have also created several projects, which you can find here: [Posts](https://mayankvikash.in/posts)
 
@@ -60,7 +60,7 @@ Check out [Discussion](https://mayankvikash.in/discussion) section where you can
 
 I also have a subdomain [dev.mayankvikash.ml](https://dev.mayankvikash.ml) where I keep posting quite interesting stuff. It is powered by  Hashnode - a blogging community with over 2 Million members. 
 
-When it comes to posting stories, how can I forget Hackernoon, which is one of my favourite reading platforms and I am also a contributor writer there. I am also going to apply for FreeCodeCamp contributor, so wish me luck!
+When it comes to posting stories, how can I forget Hackernoon, which is one of my favorite reading platforms and I am also a contributor writer there? I am also going to apply for FreeCodeCamp contributor, so wish me luck!
 
 ## My Story
 I am a 9th-grade student. I learned Java as a part of my school syllabus and the moment I read about it, I fell in love with it. I started learning about Object-oriented programming languages and their history. Then, Java, writing the first program in java, logic building, number programs, conditional statements, loops and so much more.
@@ -83,7 +83,7 @@ I also have an interest in writing and I am also a contributor writer at Hackern
 
 Although I am not always active on this site because of school and studies, I post at least one article a month, sometimes maybe two.
 
-Currently, I am building my URL shortener build entirely with Javascript. It is my favourite project. I have written the logic of the shortener, I just need to build a landing page and a form where you can put the URL. 
+Currently, I am building my URL shortener build entirely with Javascript. It is my favorite project. I have written the logic of the shortener, I just need to build a landing page and a form where you can put the URL. 
 
 Check out the development:
 [Why URLRealm is not ready yet?](https://mayankvikash.in/news/Why-URLRealm-is-not-ready-yet/)
@@ -94,7 +94,7 @@ I forgot to mention that I am also learning app development and I have published
 
 I am learning game development too in Unity by following Youtube videos it is quite fun and I am enjoying it.
 
-Some of my favourite Youtube channels:
+Some of my favorite Youtube channels:
 [Code With Harry](https://youtube.com/c/CodeWithHarry)
 
 [FreeCodeCamp](https://youtube.com/c/Freecodecamp)
@@ -126,13 +126,13 @@ I have just bought a new domain from GoDaddy. [mayankvikash.in](https://mayankvi
 
 I have some future post ideas for this website. Some of them are:
 - Multiplication Table in Java
-- Program to check whether a triangle is right angled or not
+- Program to check whether a triangle is right-angled or not
 - Top 50 IT and Computer questions
 
 
 I have also written some essays which you can find on my medium and Blogspot profile. I am not that good at writing but I always try to write something helpful to readers, if not helpful then at least they may have fun reading it and it is worth their valuable time.
 
-Fun Fact: A few days back I had my English exam and I was told to write an essay describing your experience in a Children's park that is newly built in your locality. You won't believe me I inserted a police case in a Children's park essay. It was not like children fighting each other. Basically, for building the park the authorities needed to cut down some trees and because of that some environmentalists protested and took this matter to the High Court. It was a pretty good essay two-page essay which I also enjoyed writing and you may also like reading.
+Fun Fact: A few days back I had my English exam and I was told to write an essay describing my experience in a Children's park that is newly built in your locality. You won't believe me I inserted a police case in a Children's park essay. It was not like children fighting each other. Basically, for building the park the authorities needed to cut down some trees and because of that some environmentalists protested and took this matter to the High Court. It was a pretty good essay two-page essay which I also enjoyed writing and you may also like reading.
 
 I will post that essay here or on my medium.
 
@@ -141,6 +141,6 @@ You can contact me using one of the options below to ask me regarding a particul
 
 You can get in touch through Twitter, my profile [@MayankVikash1](https://twitter.com/MayankVikash1)
 
-Github Discussion: [mayankvikash.in Github DIscussion](https://github.com/MayankVikash/mayankvikash.in/discussions)
+GitHub Discussion: [mayankvikash.in Github DIscussion](https://github.com/MayankVikash/mayankvikash.in/discussions)
 
 If you have come this long reading this page then I truly appreciate it and hope that it was worth your time.  Thanks for reading!
