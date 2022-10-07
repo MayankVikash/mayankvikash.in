@@ -1,5 +1,6 @@
 ---
 
+title: Home | Mayank Vikash
 description: This is my website built with Jekyll. Check it out to know more about me.
 
 
