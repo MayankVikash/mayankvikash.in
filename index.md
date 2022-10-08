@@ -1,8 +1,7 @@
 ---
 
-title: Home | Mayank Vikash
-description: This is my website built with Jekyll. Check it out to know more about me.
-
+title: Mayank Vikash
+description: I am Mayank Vikash, a student with interest in web and app development. I will share my learning on this website.
 
 ---
 
