@@ -1,5 +1,5 @@
 ---
-title: How to input a number and display its prime digits?
+title: How to input a number and display its prime digits in Java?
 description: Program in java to input a number and display its prime digits.
 
 ---
@@ -8,9 +8,8 @@ description: Program in java to input a number and display its prime digits.
 
 ![How to input a number and display its prime digits?](https://mayankvikash.in/posts/how-to-input-a-number-and-display-its-prime-digits/0VzaTz-zi.jpg)
 
-[Mayank Vikash](https://twitter.com/MayankVikash1)
-
-·Sep 17, 2022·
+- Written by Mayank Vikash
+- Last updated Oct 9, 2022
 
 ### TABLE OF CONTENTS
 
