@@ -107,4 +107,6 @@ public class RightAngledTriangle {
 
 ## Output
 
-![Not a right-angled triangle output screenshot](https://mayankvikash.in/posts/How-to-check-in-Java-whether-a-Triangle-is-right-angled-or-not/right-angled-triangle-output-not-a-right-angled-triangle-screenshot.webp)![Right-angled triangle output screenshot](https://mayankvikash.in/posts/How-to-check-in-Java-whether-a-Triangle-is-right-angled-or-not/Right-Angled-Triangle-command-line-output-screenshot.webp)
+![Not a right-angled triangle output screenshot](https://mayankvikash.in/posts/How-to-check-in-Java-whether-a-Triangle-is-right-angled-or-not/right-angled-triangle-output-not-a-right-angled-triangle-screenshot.webp)
+
+![Right-angled triangle output screenshot](https://mayankvikash.in/posts/How-to-check-in-Java-whether-a-Triangle-is-right-angled-or-not/Right-Angled-Triangle-command-line-output-screenshot.webp)
