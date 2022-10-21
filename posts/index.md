@@ -7,7 +7,7 @@ description: Welcome to Posts | Mayank Vikash
 
 ## Welcome to Posts | Mayank Vikash
 
-- Last updated Oct 5, 2022
+- Last updated Oct 21, 2022
 
 I love making random things and I also post about them here, you can read my posts about what I made and how I made them.
 
@@ -22,6 +22,8 @@ Here you will get a sitemap for the latest posts published on this website:
 [Multiplication Table in Java](https://mayankvikash.in/posts/multiplication-table-in-java/)
 
 [Top 50 IT and Computer questions for quizzes](https://mayankvikash.in/posts/top-50-it-and-computer-questions/)
+
+[How to check in Java whether a Triangle is right-angled or not?](https://mayankvikash.in/posts/How-to-check-in-Java-whether-a-Triangle-is-right-angled-or-not/)
 
 [Back to home](https://mayankvikash.ml/)
 
