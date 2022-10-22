@@ -155,6 +155,6 @@ You can contact me using one of the options below to ask me regarding a particul
 
 You can get in touch through Twitter, my profile [@MayankVikash1](https://twitter.com/MayankVikash1)
 
-[Discussion | Mayank Vikash](https://mayankvikash.in/discussion)
+[Discussion - Mayank Vikash](https://mayankvikash.in/discussion)
 
 If you have come this long reading this page then I truly appreciate it and hope that it was worth your time.  Thanks for reading!
