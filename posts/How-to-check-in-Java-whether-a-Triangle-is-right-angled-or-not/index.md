@@ -5,9 +5,12 @@ description: A simple program in Java to check whether a triangle is right-angle
 
 ---
 
+![How to check whether a triangle is right-angled or not?](https://mayankvikash.in/posts/How-to-check-in-Java-whether-a-Triangle-is-right-angled-or-not/Right-angled-triangle-in-java-cover-photo.webp)
+
+
 - Written by Mayank Vikash
 - Published on 21st October 2022
-- Last Updated Oct 21, 2022
+- Last Updated Oct 22, 2022
 
 A right-angled triangle is a triangle with one of its interior angles equal to 90 degrees or any one angle is a right angle.
 
