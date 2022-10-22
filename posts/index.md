@@ -25,5 +25,5 @@ Here you will get a sitemap for the latest posts published on this website:
 
 [How to check in Java whether a Triangle is right-angled or not?](https://mayankvikash.in/posts/How-to-check-in-Java-whether-a-Triangle-is-right-angled-or-not/)
 
-[Back to home](https://mayankvikash.ml/)
+[Back to home](https://mayankvikash.in/)
 
