@@ -1,7 +1,7 @@
 ---
 
 title: Discussion
-description: Welcome to Discussion | Mayank Vikash. Discuss about various topics here.
+description: Welcome to Discussion | Mayank Vikash. Discuss various topics here.
 
 ---
 
@@ -9,7 +9,17 @@ description: Welcome to Discussion | Mayank Vikash. Discuss about various topics
 
 Welcome to Discussion. 
 
-You can discuss about various topics here. I will also keep posting things here.
+mayankvikash.in is the place where I share my learning with you all. This site mostly has articles related to Java, web dev, programming etc. I am the only one working on this website, but contributors are welcome. Check out the [Github repository](https://github.com/MayankVikash/mayankvikash.in) for contributing guidelines.
+
+Check out the latest tweets to stay updated about my latest projects and my activity around the web.
+
+<a class="twitter-timeline" data-tweet-limit="10"
+href="https://twitter.com/MayankVikash1?ref_src=twsrc%5Etfw">Tweets by MayankVikash1</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+You can discuss various topics here. I will also keep posting things here. Just be civil and respectful. Ask doubts, and share your codes, projects, designs, and articles, just chat, leave feedback or ask others to contribute to your projects or website.
+
+The comment box below is powered by Disqus. 
 
 
 
