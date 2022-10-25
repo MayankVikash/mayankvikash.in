@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Mayank Vikash</title>
+  <link>https://mayankvikash.in</link>
+  <description>I am Mayank Vikash, a student with an interest in web and app development. I will share my learning on this website.</description>
+  <item>
+    <title>Posts</title>
+    <link>https://mayankvikash.in/posts</link>
+    <description>Welcome to Posts | Mayank Vikash
+</description>
+  </item>
+  <item>
+    <title>A Simple Report Card in Java
+</title>
+    <link>https://mayankvikash.in/posts/simple-report-card-in-java</link>
+    <description>Simple report card in Java</description>
+  </item>
+</channel>
+
+</rss>
