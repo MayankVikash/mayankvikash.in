@@ -13,9 +13,11 @@ I love making random things and I also post about them here, you can read my pos
 
 Here you will get a sitemap for the latest posts published on this website:
 
-[Expansion Formulas in Java](https://mayankvikash.in/posts/Expansion-Formulas-in-Java/)
 
 [A Report Card in Java.](https://mayankvikash.in/posts/simple-report-card-in-java/)
+
+[Expansion Formulas in Java](https://mayankvikash.in/posts/Expansion-Formulas-in-Java/)
+
 
 [How to input a number extract and display its prime digits](https://mayankvikash.in/posts/how-to-input-a-number-and-display-its-prime-digits/)
 
@@ -24,6 +26,8 @@ Here you will get a sitemap for the latest posts published on this website:
 [Top 50 IT and Computer questions for quizzes](https://mayankvikash.in/posts/top-50-it-and-computer-questions/)
 
 [How to check in Java whether a Triangle is right-angled or not?](https://mayankvikash.in/posts/How-to-check-in-Java-whether-a-Triangle-is-right-angled-or-not/)
+
+[How to use Google's WebpShop Photoshop plugin](https://mayankvikash.in/posts/how-to-download-and-use-webp-shop-photoshop-plugin/)
 
 [Back to home](https://mayankvikash.in/)
 
