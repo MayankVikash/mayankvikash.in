@@ -36,8 +36,7 @@ Note: The latest version of photoshop supports webp format. **However, some feat
 		![Screenshot of the location where the plugin should be kept](https://mayankvikash.in/posts/how-to-download-and-use-webp-shop-photoshop-plugin/webpshop-plugin-location-screenshot.webp)
  3.  Restart photoshop. For a quick verification if the plugin is working on not, open Photoshop and click on Help > About Plug-ins > WebpShop.
 ![Click on the Help, located at the top.](https://mayankvikash.in/posts/how-to-download-and-use-webp-shop-photoshop-plugin/click-on-help-located-at-the-top-in-photoshop.webp)
-Like this: 
-<iframe src="https://mayankvikash.in/posts/how-to-download-and-use-webp-		shop-photoshop-plugin/video-of-verifying-if-the-plugin-is-working-in-photoshop.webm" allowfullscreen>
+Like [this](https://mayankvikash.in/posts/how-to-download-and-use-webp-shop-photoshop-plugin/video-of-verifying-if-the-plugin-is-working-in-photoshop.webm).
 
 If you can see this, the Webp Shop plugin is working and you are good to go.
 
