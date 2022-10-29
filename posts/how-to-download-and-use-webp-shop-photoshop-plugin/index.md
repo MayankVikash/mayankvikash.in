@@ -9,7 +9,7 @@ description: A quick and detailed guide to using the Webp shop plugin in Photosh
 
 Webp is an image format developed by Google which supports maximum compression under Google's initiative to 'make the web faster.
 
-WebP is an image file format developed by Google and intended as a replacement for JPEG, PNG, and GIF file formats which supports both lossy and lossless compression as well as animation and transparency.
+It is an image file format intended as a replacement for JPEG, PNG, and GIF file formats which supports both lossy and lossless compression as well as animation and transparency.
 
 Google defines webp as:
 
