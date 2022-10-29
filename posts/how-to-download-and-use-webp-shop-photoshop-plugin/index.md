@@ -27,7 +27,7 @@ Google released the Webp converter library which is a command line tool and is a
 Most people edit their images with Photoshop. It would be so great if there would be a plugin that could open webp images in Photoshop and convert normal images to webp.
 Google understood this need and created a photoshop plugin to **read and write webp files**, WebpShop.
 
-Note: The latest version of photoshop supports webp format. **However, some features such as preview at encoding and animations are missing**, stated by Google in the Readme of WebpShop's [repository](https://github.com/webmproject/WebPShop).
+Note: The latest version of photoshop supports webp format. However, some features such as **preview at encoding and animations are missing**, stated by Google in the Readme of WebpShop's [repository](https://github.com/webmproject/WebPShop).
 
 ### How to install the Webp Shop plugin in Photoshop (on windows)
 
