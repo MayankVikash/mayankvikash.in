@@ -1,6 +1,6 @@
 ---
 
-title: How to use Google's WebpShop Photoshop plugin
+title: How to download and use Google's WebpShop Photoshop plugin
 description: A quick and detailed guide to using the Webp shop plugin in Photoshop
 
 ---
@@ -36,7 +36,7 @@ Note: The latest version of photoshop supports webp format. **However, some feat
 		![Screenshot of the location where the plugin should be kept](https://mayankvikash.in/posts/how-to-download-and-use-webp-shop-photoshop-plugin/webpshop-plugin-location-screenshot.webp)
  3.  Restart photoshop. For a quick verification if the plugin is working on not, open Photoshop and click on Help > About Plug-ins > WebpShop.
 ![Click on the Help, located at the top.](https://mayankvikash.in/posts/how-to-download-and-use-webp-shop-photoshop-plugin/click-on-help-located-at-the-top-in-photoshop.webp)
-Like [this](https://mayankvikash.in/posts/how-to-download-and-use-webp-shop-photoshop-plugin/video-of-verifying-if-the-plugin-is-working-in-photoshop.webm).
+Like this: [screen recording of validating if the WebpShop plugin is working or not.](https://mayankvikash.in/posts/how-to-download-and-use-webp-shop-photoshop-plugin/video-of-verifying-if-the-plugin-is-working-in-photoshop.webm).
 
 If you can see this, the Webp Shop plugin is working and you are good to go.
 
