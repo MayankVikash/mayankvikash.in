@@ -7,7 +7,7 @@ description: A quick and detailed guide to using the Webp shop plugin in Photosh
 
 ![How to use and run WebpShop in Photoshop](https://mayankvikash.in/posts/how-to-download-and-use-webp-shop-photoshop-plugin/How-to-run-and-use-WebpShop-plugin-in-PhotoShop.webp)
 
-Webp is an image format developed by Google which supports maximum compression under Google's initiative to 'make the web faster.
+Webp is an image format developed by Google which supports maximum compression under Google's initiative to 'make the web faster'.
 
 It is an image file format intended as a replacement for JPEG, PNG, and GIF file formats which supports both lossy and lossless compression as well as animation and transparency.
 
@@ -17,7 +17,7 @@ Google defines webp as:
 
 Google announced the WebP format on September 30 2010 and released the first stable version of its supporting library in April 2018.
 
-Along with supporting image compression just like png, webp also supports transparency which is not possible with jpeg files.
+Along with supporting image compression just like png, webp also supports transparency and animation which is not possible with jpeg files.
 
 ## How to create webp images?
 One of the simplest and easiest ways of converting png or jpeg files to webp is using an online file converter like CloudConvert. With CloudConvert's free version you can convert 25 files per day, which is not convenient for big website owners. While other converters show lots of ads which is frustrating.
@@ -91,4 +91,4 @@ Written by Mayank Vikash.
 
 Published on 28th October 2022.
 
-Last updated Oct 29, 2022.
+Last updated Oct 30, 2022.
