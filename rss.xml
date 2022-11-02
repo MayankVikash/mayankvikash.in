@@ -26,6 +26,48 @@
   </item>
 
 
+<item>
+    <title>Expansion Formulas in Java</title>
+    <link>https://mayankvikash.in/posts/Expansion-Formulas-in-Java/</link>
+    <description> A simple java program to take the input a and b and display the output based on the formula selected by the user. </description>
+</item>
+
+<item>
+    <title>How to input a number and display its prime digits in Java?</title>
+    <link>https://mayankvikash.in/posts/how-to-input-a-number-and-display-its-prime-digits/</link>
+    <description>Program in java to input a number and display its prime digits. </description>
+</item>
+
+<item>
+    <title>Multiplication Table in Java</title>
+    <link>https://mayankvikash.in/posts/multiplication-table-in-java/</link>
+    <description>Java program to display the multiplication of the input number from 1 to 10. </description>
+</item>
+
+<item>
+    <title>Top 50 IT and Computer questions.</title>
+    <link>https://mayankvikash.in/posts/top-50-it-and-computer-questions/</link>
+    <description>50 IT and Computer Questions to prepare for quizzes </description>
+</item>
+
+<item>
+    <title>How to check in Java whether a Triangle is right-angled or not?</title>
+    <link>https://mayankvikash.in/posts/How-to-check-in-Java-whether-a-Triangle-is-right-angled-or-not/</link>
+    <description>A simple program in Java to check whether a triangle is right-angled or not. </description>
+</item>
+
+<!--
+<item>
+    <title></title>
+    <link></link>
+    <description> </description>
+</item>
+-->
+
+
+
+
+
 </channel>
 
 </rss>
