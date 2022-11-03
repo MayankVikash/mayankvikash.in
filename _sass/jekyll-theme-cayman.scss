@@ -376,3 +376,7 @@ a {
 .site-footer-credits {
   color: $blockquote-text-color;
 }
+
+pre{
+filter: invert(100%);
+}
