@@ -29,5 +29,7 @@ Here you will get a sitemap for the latest posts published on this website:
 
 [How to use Google's WebpShop Photoshop plugin](https://mayankvikash.in/posts/how-to-download-and-use-webp-shop-photoshop-plugin/)
 
+[Typescript replaced Javascript to become world's favourite language](https://mayankvikash.in/posts/typescript-replaced-javascript-to-became-the-worlds-favourite-language/)
+
 [Back to home](https://mayankvikash.in/)
 
