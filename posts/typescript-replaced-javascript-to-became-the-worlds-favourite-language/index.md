@@ -1,3 +1,15 @@
+---
+
+title: Typescript Replaced Javascript to Became the World's Favourite Language
+description: Javascript was replaced by Typescript to become the world's favourite language.
+
+
+
+---
+
+
+
+
 ![Cover Image](https://mayankvikash.in/posts/typescript-replaced-javascript-to-became-the-worlds-favourite-language/Picsart_22-11-05_00-41-28-373.jpg)
 
 Typescript has surpassed Javascript to become the world’s favorite language.
