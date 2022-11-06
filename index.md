@@ -9,7 +9,8 @@ description: I am Mayank Vikash, a student with an interest in web and app devel
 ![Home  Mayank Vikash](https://mayankvikash.in/img/home/Home-Mayank-Vikash.webp)
 
 - Written by Mayank Vikash
-- Last updated October 22, 2022.
+- Published on 3 October, 2022
+- Last updated Nov 6, 2022.
 
 
 I am Mayank Vikash, a student with some knowledge of how the thing works.
