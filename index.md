@@ -62,10 +62,6 @@ You can also check out my profiles on these platforms:
 [Github](https://github.com/MayankVikash)  
 
 
-The [Discussion](https://mayankvikash.in/discussion) section is the place where the readers of this website ask doubts, share memes, send invitations to contribute to open-source projects or just do random talks.
-
-![Screenshot of Discussion  Mayank Vikash](https://mayankvikash.in/img/home/discussion-mayankvikash-screenshot.jpeg)
-
 When it comes to posting stories, no one can forget Hackernoon, which is one of my favourite reading platforms and I am also a contributor writer there.
 
 ## My Story
