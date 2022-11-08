@@ -31,5 +31,7 @@ Here you will get a sitemap for the latest posts published on this website:
 
 [Typescript replaced Javascript to become world's favourite language](https://mayankvikash.in/posts/typescript-replaced-javascript-to-became-the-worlds-favourite-language/)
 
+[Why tech giants are sacking employees](https://mayankvikash.in/posts/why-tech-giants-are-sacking-employees/)
+
 [Back to home](https://mayankvikash.in/)
 
