@@ -45,6 +45,6 @@ It is not easy to get a new job during this time of economic crisis. Those who h
 
 - Written by Mayank Vikash
 - Published on 8th November, 2022
-- Last Updated Nov 8, 2022
+- Last Updated Nov 9, 2022
 
 
