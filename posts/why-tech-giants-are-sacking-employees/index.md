@@ -7,7 +7,7 @@ description: Explained the possible reasons for sacking of employees by tech gia
 
 ---
 
-
+![Why tech giants are firing employees](https://mayankvikash.in/posts/why-tech-giants-are-sacking-employees/20221109_185249_0000.png)
 
 
 After the world's richest person, Elon Musk acquired the micro-blogging platform Twitter for 44 billion dollars he started his first day in the office by firing Twitter’s top executives, including CEO Parag Agrawal, Chief Financial Officer (CFO) Ned Segal and legal affairs and policy chief Vijaya Gadde. Just a few days after that he is reported to fire a whole team of Data Engineers. Within a week after Chief Twit announced to lay off half the Twitter employees which are about 3700 employees out of 7500.
