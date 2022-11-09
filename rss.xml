@@ -56,13 +56,10 @@
     <description>A simple program in Java to check whether a triangle is right-angled or not. </description>
 </item>
 
-<!--
-<item>
-    <title></title>
-    <link></link>
-    <description> </description>
-</item>
--->
+
+
+
+
 
 <item>
     <title>Typescript Replaced Javascript to Became the World's Favourite Language</title>
@@ -72,7 +69,20 @@
 
 
 
+<item>
+    <title>Why tech giants are sacking employees </title>
+    <link>https://mayankvikash.in/posts/why-tech-giants-are-sacking-employees/</link>
+    <description>Explained the possible reasons for sacking of employees by tech giants. </description>
+</item>
 
+
+<!--
+<item>
+    <title></title>
+    <link></link>
+    <description> </description>
+</item>
+-->
 
 </channel>
 
