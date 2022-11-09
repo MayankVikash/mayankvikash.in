@@ -7,9 +7,9 @@ description: Welcome to Posts | Mayank Vikash
 
 ## Welcome to Posts | Mayank Vikash
 
-- Last updated Oct 21, 2022
+- Last updated Nov 8, 2022
 
-I love making random things and I also post about them here, you can read my posts about what I made and how I made them.
+I love making random things and I also post about them here, you can read my posts about what I made and how I made them. You can also find the latest news and development published on this website here as the news section has been moved here. 
 
 Here you will get a sitemap for the latest posts published on this website:
 
