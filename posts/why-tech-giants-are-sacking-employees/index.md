@@ -2,17 +2,21 @@
 
 title: Why tech giants are sacking employees
 
-description: Explained the possible reasons for sacking of employees by tech giants.
+description: Explained the possible reasons for the sacking of employees by tech giants.
 
 
 ---
 
-![Why tech giants are firing employees](https://mayankvikash.in/posts/why-tech-giants-are-sacking-employees/20221109_185249_0000.png)
+![Why tech giants are firing employees](http://mayankvikash.in/posts/why-tech-giants-are-sacking-employees/why-tech-giants-are-sacking-employees.webp)
 
 
 After the world's richest person, Elon Musk acquired the micro-blogging platform Twitter for 44 billion dollars he started his first day in the office by firing Twitter’s top executives, including CEO Parag Agrawal, Chief Financial Officer (CFO) Ned Segal and legal affairs and policy chief Vijaya Gadde. Just a few days after that he is reported to fire a whole team of Data Engineers. Within a week after Chief Twit announced to lay off half the Twitter employees which are about 3700 employees out of 7500.
 
 Unfortunately, Twitter is not the only giant to lay off its employees. The long list of companies sacking their employees includes Facebook's parent company Meta, Google's parent company Alphabet, Netflix, Byju's, Microsoft and many more.
+
+Meta has announced laying off more than 11000 employees which are 13 per cent of the company's workforce.
+
+"Today I’m sharing some of the most difficult changes we’ve made in Meta’s history. I’ve decided to reduce the size of our team by about 13 per cent and let more than 11,000 of our talented employees go", Meta co-founder Mark Zuckerberg, said in a message to the staff.
 
 Situations are similar in India. Around 15,708 in the country have lost jobs. The Indian companies included unicorns like BYJU'S, Ola, Meesho, and MPL.
 
@@ -45,6 +49,4 @@ It is not easy to get a new job during this time of economic crisis. Those who h
 
 - Written by Mayank Vikash
 - Published on 8th November, 2022
-- Last Updated Nov 9, 2022
-
-
+- Last Updated Nov 10, 2022
