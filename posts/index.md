@@ -7,7 +7,7 @@ description: Welcome to Posts | Mayank Vikash
 
 ## Welcome to Posts | Mayank Vikash
 
-- Last updated Nov 8, 2022
+- Last updated Nov 11, 2022
 
 I love making random things and I also post about them here, you can read my posts about what I made and how I made them. You can also find the latest news and development published on this website here as the news section has been moved here. 
 
@@ -32,6 +32,8 @@ Here you will get a sitemap for the latest posts published on this website:
 [Typescript replaced Javascript to become world's favourite language](https://mayankvikash.in/posts/typescript-replaced-javascript-to-became-the-worlds-favourite-language/)
 
 [Why tech giants are sacking employees](https://mayankvikash.in/posts/why-tech-giants-are-sacking-employees/)
+
+[Why Google does not rank freenom domains](https://mayankvikash.in/posts/Why-Google-does-not-rank-freenom-domains/)
 
 [Back to home](https://mayankvikash.in/)
 
