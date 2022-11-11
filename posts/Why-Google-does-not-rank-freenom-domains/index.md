@@ -1,6 +1,6 @@
 ---
 
-title: Why Google does not rank freenom domains.
+title: Why Google does not rank freenom domains
 description: Explained why Google is biased with freenom domains.
 
 ---
