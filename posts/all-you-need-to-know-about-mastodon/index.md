@@ -22,7 +22,7 @@ The service uses Ruby on Rails for the REST API, React.js and Redux are used for
 
 
 
-The Mastodon communities are hosted on separate servers by the owner of the community. The servers can interact with the main Mastodon servers. For example, Just like there are several subreddits on Reddit for SEO, News, Memes etc. but they are hosted on Reddit's servers and are just maintained by the moderators of the individual servers, Mastodon has several communities which are hosted on separate servers and can be explored through the main Mastodon app (for search results are listing in the user's feed). The content of the other servers can be accessed and read by the user in Mastodon's Explore tab.
+The Mastodon communities are hosted on separate servers by the owner of the community. The servers can interact with the main Mastodon servers. For example, Just like there are several subreddits on Reddit for SEO, News, Memes etc. but they are hosted on Reddit's servers and are just maintained by the moderators of the individual servers, Mastodon has several communities which are hosted on separate servers and can be explored through the main Mastodon app. The content of the other servers can be accessed and read by the user in Mastodon's Explore tab.
 
 Mastodon expands the functionality of the micro-blogging platform as the word limit for posts on the platform is 500 words while its competitor Twitter has a word limit of 280 words.
 
