@@ -35,5 +35,7 @@ Here you will get a sitemap for the latest posts published on this website:
 
 [Why Google does not rank freenom domains](https://mayankvikash.in/posts/Why-Google-does-not-rank-freenom-domains/)
 
+[All you need to know about Mastodon](https://mayankvikash.in/posts/all-you-need-to-know-about-mastodon/)
+
 [Back to home](https://mayankvikash.in/)
 
