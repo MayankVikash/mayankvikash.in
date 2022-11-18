@@ -14,7 +14,7 @@ Mastodon is free and open-source software for running self-hosted social network
 
 It was released 6 years ago on March 16, 2016. Eugen Rochko is the CEO and the only employee of the nonprofit organization Mastodon gGmbH, headquartered in Berlin, Germany.
 
-The new social service is programmed in Javascript and the stable version was on November 15th after the electric car maker, Tesla's CEO Elon Musk bought the social networking and micro-blogging platform Twitter of which Mastodon is highly inspired, on October 28th for 44 billion dollars.
+The new social service is programmed in Javascript and the stable version was released on November 15th after the electric car maker, Tesla's CEO Elon Musk bought the social networking and micro-blogging platform Twitter of which Mastodon is highly inspired, on October 28th for 44 billion dollars.
 
 The source code of the self-hosted social networking service is available on its [GitHub repository](https://github.com/mastodon/mastodon) and it is open to contributors. As of now, there are 700+ contributors on Mastodon's repository.
 
