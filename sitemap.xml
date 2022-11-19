@@ -2,7 +2,7 @@
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"> 
 <url>
 <loc>https://mayankvikash.in/posts</loc>
-<lastmod>2022-10-21</lastmod>
+<lastmod>2022-11-18</lastmod>
 </url>
 <url>
 <loc>https://mayankvikash.in/posts/Expansion-Formulas-in-Java/</loc>
@@ -86,6 +86,12 @@
 <loc>https://mayankvikash.in/posts/all-you-need-to-know-about-mastodon/</loc>
 <lastmod>2022-11-18</lastmod>
 </url>
+ 
+<url>
+<loc>https://mayankvikash.in/rss.xml</loc>
+<lastmod>2022-11-18</lastmod>
+</url>
+  
   
   
 
