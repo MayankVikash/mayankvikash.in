@@ -7,7 +7,7 @@ description: Welcome to Posts | Mayank Vikash
 
 ## Welcome to Posts | Mayank Vikash
 
-- Last updated Nov 20, 2022
+- Last updated Nov 23, 2022
 
 I love making random things and I also post about them here, you can read my posts about what I made and how I made them. You can also find the latest news and development published on this website here as the news section has been moved here. 
 
@@ -38,6 +38,8 @@ Here you will get a sitemap for the latest posts published on this website:
 [All you need to know about Mastodon](https://mayankvikash.in/posts/all-you-need-to-know-about-mastodon/)
 
 [Trump is back on Twitter](https://mayankvikash.in/posts/trump-is-back-on-twitter/)
+
+[Koo crossed over 1 million downloads in Brazil within 2 days of launch](https://mayankvikash.in/posts/Koo-crossed-1-million-downloads-in-Brazil-within-2-days-of-launch/)
 
 [Back to home](https://mayankvikash.in/)
 
