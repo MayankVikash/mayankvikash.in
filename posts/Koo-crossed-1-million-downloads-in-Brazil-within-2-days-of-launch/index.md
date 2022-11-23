@@ -5,6 +5,7 @@ description: Indian social networking site Koo crossed 1 million downloads withi
 ---
 
 ![Koo Crossed 1 million plus downloads within two days of launched in Brazil Cover](https://mayankvikash.in/posts/Koo-crossed-1-million-downloads-in-Brazil-within-2-days-of-launch/koo-crosses-1-million-plus-downloads-in-Brazil-cover.webp)
+
 Indian microblogging platform, Koo has secured the top position on both Google Play Store and Apple App Store in Brazil. Indian Twitter alternative platform Koo App on Monday 21st November 2022 said it has received a strong response from users in Brazil, crossing over 1 million downloads within 48 hours of launch in the country.
 
 Koo said in a statement that: “India’s multilingual microblogging platform, Koo App, was launched in Brazil with the addition of the Portuguese language, making it available in 11 native languages now”.
