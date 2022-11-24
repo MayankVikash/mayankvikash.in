@@ -2,6 +2,51 @@
 <rss version="2.0">
 
 <channel>
+<!--
+<item>
+    <title></title>
+    <link></link>
+    <description> </description>
+</item>
+-->
+
+<item>
+    <title>Koo crossed over 1 million downloads in Brazil within 2 days of launch</title>
+    <link>https://mayankvikash.in/posts/Koo-crossed-1-million-downloads-in-Brazil-within-2-days-of-launch/</link>
+    <description>Indian social networking site Koo crossed 1 million downloads within 2 days of launch in Brazil.</description>
+</item>  
+
+<item>
+    <title>Trump is back on Twitter</title>
+    <link>https://mayankvikash.in/posts/trump-is-back-on-twitter/ </link>
+    <description>45th US President's Twitter account was reinstated after a permanent ban. </description>
+</item>
+
+<item>
+    <title>All you need to know about Mastodon</title>
+    <link>https://mayankvikash.in/posts/all-you-need-to-know-about-mastodon/</link>
+    <description>Mastodon is the largest decentralized social network on the internet. Read this Guide to learn about it.</description>
+</item>
+
+
+<item>
+    <title>Why Google does not rank freenom domains </title>
+    <link>https://mayankvikash.in/posts/Why-Google-does-not-rank-freenom-domains/</link>
+    <description>Explained why Google is biased with freenom domains.</description>
+</item>
+
+<item>
+    <title>Why tech giants are sacking employees </title>
+    <link>https://mayankvikash.in/posts/why-tech-giants-are-sacking-employees/</link>
+    <description>Explained the possible reasons for the sacking of employees by tech giants. </description>
+</item>
+
+<item>
+    <title>Typescript Replaced Javascript to Became the World's Favourite Language</title>
+    <link>https://mayankvikash.in/posts/typescript-replaced-javascript-to-became-the-worlds-favourite-language/</link>
+    <description>Javascript was replaced by Typescript to become the world's favourite language. </description>
+</item>
+
   <title>Mayank Vikash</title>
   <link>https://mayankvikash.in</link>
   <description>I am Mayank Vikash, a student with an interest in web and app development. I will share my learning on this website.</description>
@@ -61,57 +106,27 @@
 
 
 
-<item>
-    <title>Typescript Replaced Javascript to Became the World's Favourite Language</title>
-    <link>https://mayankvikash.in/posts/typescript-replaced-javascript-to-became-the-worlds-favourite-language/</link>
-    <description>Javascript was replaced by Typescript to become the world's favourite language. </description>
-</item>
 
 
 
-<item>
-    <title>Why tech giants are sacking employees </title>
-    <link>https://mayankvikash.in/posts/why-tech-giants-are-sacking-employees/</link>
-    <description>Explained the possible reasons for the sacking of employees by tech giants. </description>
-</item>
+
+
 
   
   
-<item>
-    <title>Why Google does not rank freenom domains </title>
-    <link>https://mayankvikash.in/posts/Why-Google-does-not-rank-freenom-domains/</link>
-    <description>Explained why Google is biased with freenom domains.</description>
-</item>
+
   
 
-<item>
-    <title>All you need to know about Mastodon</title>
-    <link>https://mayankvikash.in/posts/all-you-need-to-know-about-mastodon/</link>
-    <description>Mastodon is the largest decentralized social network on the internet. Read this Guide to learn about it.</description>
-</item>
 
-<item>
-    <title>Trump is back on Twitter</title>
-    <link>https://mayankvikash.in/posts/trump-is-back-on-twitter/ </link>
-    <description>45th US President's Twitter account was reinstated after a permanent ban. </description>
-</item>
+
+
   
   
   
-<item>
-    <title>Koo crossed over 1 million downloads in Brazil within 2 days of launch</title>
-    <link>https://mayankvikash.in/posts/Koo-crossed-1-million-downloads-in-Brazil-within-2-days-of-launch/</link>
-    <description>Indian social networking site Koo crossed 1 million downloads within 2 days of launch in Brazil.</description>
-</item>  
 
 
-<!--
-<item>
-    <title></title>
-    <link></link>
-    <description> </description>
-</item>
--->
+
+
 
 </channel>
 
