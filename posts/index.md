@@ -13,6 +13,8 @@ I love making random things and I also post about them here, you can read my pos
 
 Here you will get a sitemap for the latest posts published on this website:
 
+[Elon Musk will make an alternative smartphone if Apple and Google remove Twitter](https://mayankvikash.in/posts/Elon-Musk-would-create-his-own-phone-if-Google-and-Apple-remove-Twitter/)
+
 [UK Bans Chinese cameras at government buildings](https://mayankvikash.in/posts/UK-bans-Chinese-cameras-at-government-buildings/)
 
 [Koo crossed over 1 million downloads in Brazil within 2 days of launch](https://mayankvikash.in/posts/Koo-crossed-1-million-downloads-in-Brazil-within-2-days-of-launch/)
