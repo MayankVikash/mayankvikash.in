@@ -2,6 +2,7 @@
 
 title: Mayank Vikash
 description: I am Mayank Vikash, a student with an interest in web and app development. I will share my learning on this website.
+cover: https://mayankvikash.in/img/home/Home-Mayank-Vikash.webp
 
 ---
 
