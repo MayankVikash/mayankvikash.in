@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"> 
+  
+  
 <url>
 <loc>https://mayankvikash.in/posts</loc>
-<lastmod>2022-11-25</lastmod>
+<lastmod>2022-12-03</lastmod>
 </url>
+  
+  <url>
+<loc>https://mayankvikash.in/posts/an-easy-approach-to-check-in-java-whether-a-number-is-automorphic-or-not/</loc>
+<lastmod>2022-12-03</lastmod>
+</url>
+  
+  
+  
+  
 <url>
 <loc>https://mayankvikash.in/posts/Expansion-Formulas-in-Java/</loc>
 <lastmod>2022-11-11</lastmod>
