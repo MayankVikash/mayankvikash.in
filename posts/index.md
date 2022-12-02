@@ -13,6 +13,8 @@ I love making random things and I also post about them here, you can read my pos
 
 Here you will get a sitemap for the latest posts published on this website:
 
+[An easy approach to check in Java whether a number is Automorphic or not](https://mayankvikash.in/posts/an-easy-approach-to-check-in-java-whether-a-number-is-automorphic-or-not/)
+
 [Elon Musk will make an alternative smartphone if Apple and Google remove Twitter](https://mayankvikash.in/posts/Elon-Musk-would-create-his-own-phone-if-Google-and-Apple-remove-Twitter/)
 
 [UK Bans Chinese cameras at government buildings](https://mayankvikash.in/posts/UK-bans-Chinese-cameras-at-government-buildings/)
