@@ -10,6 +10,10 @@ cover: https://mayankvikash.in/posts/an-easy-approach-to-check-in-java-whether-a
 
 There are several articles on "how to check in Java whether a number is Automorphic or not?" which you can find on the Internet including some from popular websites like GeeksforGeeks and JavaTpoint. But they all have a similar problem. They are not beginners friendly.
 
+
+In this article, I will show you a beginner-friendly approach to find whether a number is Automorphic or not in Java.
+
+
 ## What is an Automorphic Number?
 
 An Automorphic Number is a number whose square has the exact number as its last digit. For example, 25 which is the square of 5 contains 5 as its last digit. An example of a two-digit number is 5776 which is the square of 76 and ends with 76. Some other examples are 625 which is the square of 25 and ends with 25.
@@ -137,4 +141,4 @@ So This is how you can solve a complicated problem like this with an easy and si
 
 - Written by Mayank Vikash
 - Published on 3rd December 2022
-- Last updated Dec 3rd, 2022
+- Last updated Dec 4, 2022
