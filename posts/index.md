@@ -7,11 +7,13 @@ description: Welcome to Posts | Mayank Vikash
 
 ## Welcome to Posts | Mayank Vikash
 
-- Last updated Nov 25, 2022
+- Last updated Dec 4, 2022
 
 I love making random things and I also post about them here, you can read my posts about what I made and how I made them. You can also find the latest news and development published on this website here as the news section has been moved here. 
 
 Here you will get a sitemap for the latest posts published on this website:
+
+[Hive Social shuts down servers due to security issues](https://mayankvikash.in/posts/hive-social-shuts-down-servers-due-to-security-issues/)
 
 [An easy approach to check in Java whether a number is Automorphic or not](https://mayankvikash.in/posts/an-easy-approach-to-check-in-java-whether-a-number-is-automorphic-or-not/)
 
