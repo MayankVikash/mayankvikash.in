@@ -40,5 +40,5 @@ The data of over 2 million users were at risk if the security advisor Zerforschu
 I would rather say that we should not trust any social media. Users should not share any personal information online or through direct messages.
 
 - Written by Mayank Vikash
-- Published on 4th November, 2022
-- Last updated Nov 4, 2022
+- Published on 4th December, 2022
+- Last updated Dec 4, 2022
