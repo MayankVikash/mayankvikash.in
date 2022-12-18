@@ -13,6 +13,8 @@ I love making random things and I also post about them here, you can read my pos
 
 Here you will get a sitemap for the latest posts published on this website:
 
+[Koo's Twitter handle is suspended by Elon Musk](https://mayankvikash.in/posts/Koo-Twitter-handle-is-suspended-by-Elon-Musk/)
+
 [Hive Social shuts down servers due to security issues](https://mayankvikash.in/posts/hive-social-shuts-down-servers-due-to-security-issues/)
 
 [An easy approach to check in Java whether a number is Automorphic or not](https://mayankvikash.in/posts/an-easy-approach-to-check-in-java-whether-a-number-is-automorphic-or-not/)
