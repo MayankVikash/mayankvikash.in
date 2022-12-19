@@ -7,11 +7,13 @@ description: Welcome to Posts | Mayank Vikash
 
 ## Welcome to Posts | Mayank Vikash
 
-- Last updated Dec 18, 2022
+- Last updated Dec 19, 2022
 
 I love making random things and I also post about them here, you can read my posts about what I made and how I made them. You can also find the latest news and development published on this website here as the news section has been moved here. 
 
 Here you will get a sitemap for the latest posts published on this website:
+
+[How to Test API in mobile phone](https://mayankvikash.in/posts/How-To-test-api-in-mobile-phone/)
 
 [Koo's Twitter handle is suspended by Elon Musk](https://mayankvikash.in/posts/Koo-Twitter-handle-is-suspended-by-Elon-Musk/)
 
