@@ -196,3 +196,7 @@ Conclusion
 In this article, we have analyzed what HTTP requests are, and what the most popular methods GET, POST, PUT and DELETE are used for. We have determined why it is important to test the API and what tools are used to perform it.
 
 We also tested the above request methods using public APIs and the API Tester mobile application with illustrative examples.
+
+- Written by APITester Team and Mayank Vikash
+- Published on 19th December 2022 Monday 21:27 IST
+- Last updated Dec 19, 2022, Monday 21:30 IST
