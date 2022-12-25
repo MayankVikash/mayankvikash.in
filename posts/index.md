@@ -13,6 +13,8 @@ I love making random things and I also post about them here, you can read my pos
 
 Here you will get a sitemap for the latest posts published on this website:
 
+[Twitter removes source labels](https://mayankvikash.in/posts/twitter-removes-source-labels-from-tweets/)
+
 [What is ChatGPT? Everything you need to know](https://mayankvikash.in/posts/what-is-chatgpt-everything-you-need-to-know-about-the-ai-chat-bot/)
 
 [How to Test API in mobile phone](https://mayankvikash.in/posts/How-To-test-api-in-mobile-phone/)
