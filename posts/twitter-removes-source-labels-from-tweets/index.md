@@ -1,5 +1,5 @@
 --- 
-title: Twitter removes Source Labels from tweets.
+title: Twitter removes Source Labels from tweets
 description: Elon Musk announced that tweets will no longer have source labels.
 cover: https://mayankvikash.in/posts/twitter-removes-source-labels-from-tweets/Twitter-removes-source-labels.webp
 
