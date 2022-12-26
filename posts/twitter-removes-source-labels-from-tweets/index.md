@@ -36,7 +36,7 @@ If Elon Musk does something, that doesn't become a topic of fun. Twitter users s
 
 - Written by Mayank Vikash
 - Published on 25th December 2022 at 17:41 IST
-- Last updated Dec 25, 2022, at 17:50 IST
+- Last updated Dec 26, 2022, at 13:09 IST
 
 
 
