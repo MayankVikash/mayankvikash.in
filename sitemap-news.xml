@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+
+<!--
   <url>
    <loc>https://mayankvikash.in/posts/twitter-removes-source-labels-from-tweets/</loc>
    <news:news>
@@ -12,6 +14,7 @@
      <news:title>Twitter removes Source Labels from tweets</news:title>
     </news:news>
   </url>
+-->
   
    <url>
     <loc>https://mayankvikash.in/</loc>
