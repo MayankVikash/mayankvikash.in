@@ -6,7 +6,7 @@
 <item>
     <title></title>
     <link></link>
-    <description> </description>
+    <description></description>
     <image>
     <url>https://mayankvikash.in/img</url>
     <title>mayankvikash.in</title>
@@ -15,6 +15,17 @@
 </item>
 -->
     
+    <item>
+    <title>My 2022 recap! Achievements, mistakes, ideas, projects and others</title>
+    <link>https://mayankvikash.in/posts/my-2022-recap/</link>
+    <description>In this article, I share my stories, achievements and failures of 2022.</description>
+    <image>
+    <url>https://mayankvikash.in/posts/my-2022-recap/my-2022-recap.webp</url>
+    <title>mayankvikash.in</title>
+    <link>https://mayankvikash.in/</link>
+  </image>
+</item>
+      
     <item>
     <title>Twitter removes Source Labels from tweets</title>
     <link>https://mayankvikash.in/posts/twitter-removes-source-labels-from-tweets/</link>
