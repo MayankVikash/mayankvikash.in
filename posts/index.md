@@ -7,11 +7,13 @@ description: Welcome to Posts | Mayank Vikash
 
 ## Welcome to Posts | Mayank Vikash
 
-- Last updated Dec 23, 2022
+- Last updated Dec 30, 2022
 
 I love making random things and I also post about them here, you can read my posts about what I made and how I made them. You can also find the latest news and development published on this website here as the news section has been moved here. 
 
 Here you will get a sitemap for the latest posts published on this website:
+
+[My 2022 Recap](https://mayankvikash.in/posts/my-2022-recap/)
 
 [Twitter removes source labels](https://mayankvikash.in/posts/twitter-removes-source-labels-from-tweets/)
 
