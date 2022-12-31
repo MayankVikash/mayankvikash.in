@@ -4,7 +4,7 @@
 
 <!--
   <url>
-   <loc>https://mayankvikash.in/posts/twitter-removes-source-labels-from-tweets/</loc>
+   <loc>https://mayankvikash.in/posts/</loc>
    <news:news>
    <news:publication>
      <news:name>Mayank Vikash</news:name>
@@ -15,6 +15,20 @@
     </news:news>
   </url>
 -->
+        
+        <url>
+   <loc>https://mayankvikash.in/posts/Dream11-new-policy-make-holidays-better-for-employees/</loc>
+   <news:news>
+   <news:publication>
+     <news:name>Mayank Vikash</news:name>
+     <news:language>en</news:language>
+   </news:publication>
+   <news:publication_date>2022-12-31</news:publication_date>
+     <news:title>Dream11's new policy makes holidays better for employees</news:title>
+    </news:news>
+  </url>
+        
+        
   
    <url>
     <loc>https://mayankvikash.in/</loc>
