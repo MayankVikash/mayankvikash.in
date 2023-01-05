@@ -13,7 +13,7 @@ mayankvikash.in is the place where I share my learning with you all. This site m
 
 Check out the latest tweets to stay updated about my latest projects and my activity around the web.
 
-<a class="twitter-timeline" data-tweet-limit="10"
+<a class="twitter-timeline" data-theme="dark"  data-tweet-limit="10"
 href="https://twitter.com/MayankVikash1?ref_src=twsrc%5Etfw">Tweets by MayankVikash1</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
