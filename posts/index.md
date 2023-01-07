@@ -13,7 +13,9 @@ I love making random things and I also post about them here, you can read my pos
 
 Here you will get a sitemap for the latest posts published on this website:
 
-[Dream11's new policy makes holidays better for employees](https://mayankvikash.in/posts/Dream11-new-policy-make-holidays-better-for-employees/)
+[The developer who stole $300K from the e-commerce site Zulily](https://mayankvikash.in/posts/The-developer-who-stole-300K-from-the-e-commerce-site-Zulily/)
+
+[Dream11's new policy make holidays better for employees](https://mayankvikash.in/posts/Dream11-new-policy-make-holidays-better-for-employees/)
 
 [My 2022 Recap](https://mayankvikash.in/posts/my-2022-recap/)
 
