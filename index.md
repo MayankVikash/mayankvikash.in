@@ -1,5 +1,4 @@
 ---
-
 title: Mayank Vikash
 description: I am Mayank Vikash, a student with an interest in web and app development. I will share my learning on this website.
 cover: https://mayankvikash.in/img/home/Home-Mayank-Vikash.webp
@@ -10,15 +9,15 @@ cover: https://mayankvikash.in/img/home/Home-Mayank-Vikash.webp
 ![Home  Mayank Vikash](https://mayankvikash.in/img/home/Home-Mayank-Vikash.webp)
 
 - Written by Mayank Vikash
-- Published on 3 October, 2022
-- Last updated Nov 6, 2022.
+- Published on 3 October 2022
+- Last updated Jan 1, 2023.
 
 
-I am Mayank Vikash, a student with some knowledge of how the thing works.
+I am Mayank Vikash, a student with some knowledge of how thing works.
 
 I have learned various technologies like HTML, CSS, Javascript, Bootstrap, etc. from Google searches, blogs, Youtube videos, and StackOverflow.
 
-mayankvikash.in is a place where I share my learning to help those who are learning the same technology, it covers programming blogs/tips, tutorials, interesting news, free sources and much more. 
+mayankvikash.in is a place where I share my learning to help those who are learning the same technology, it covers programming blogs/tips, tutorials, interesting news, free sources, and much more. 
 
 As this site is new, you can't find a lot of content. I invite all people whether advanced or beginners like me to contribute to this website. Scroll down to read contributing guidelines.
 
@@ -26,17 +25,19 @@ I have learned all this and still learning more and have also created several pr
 
 Check out the latest posts:
 
-[Multiplication Table in Java](https://mayankvikash.in/posts/multiplication-table-in-java/)
+[The developer who stole $300K from the e-commerce site Zulily](https://mayankvikash.in/posts/The-developer-who-stole-300K-from-the-e-commerce-site-Zulily/)
 
-[Top 50 IT and Computer questions for quizzes](https://mayankvikash.in/posts/top-50-it-and-computer-questions/)
+[Dream11’s new policy makes holidays better for employees](https://mayankvikash.in/posts/Dream11-new-policy-make-holidays-better-for-employees/)
 
-[How to check in Java whether a Triangle is right-angled or not?](https://mayankvikash.in/posts/How-to-check-in-Java-whether-a-Triangle-is-right-angled-or-not/)
+[My 2022 Recap](https://mayankvikash.in/posts/my-2022-recap/)
 
-[Expansion Formulas in Java](https://mayankvikash.in/posts/Expansion-Formulas-in-Java/)
+[Twitter removes source labels](https://mayankvikash.in/posts/twitter-removes-source-labels-from-tweets/)
 
-[A Report Card in Java.](https://mayankvikash.in/posts/simple-report-card-in-java/)
+[What is ChatGPT? Everything you need to know](https://mayankvikash.in/posts/what-is-chatgpt-everything-you-need-to-know-about-the-ai-chat-bot/)
 
-[How to input a number extract and display its prime digits](https://mayankvikash.in/posts/how-to-input-a-number-and-display-its-prime-digits/)
+
+[Koo’s Twitter handle is suspended by Elon Musk](https://mayankvikash.in/posts/Koo-Twitter-handle-is-suspended-by-Elon-Musk/)
+
 
 You can also check out my profiles on these platforms:
 
@@ -64,7 +65,7 @@ You can also check out my profiles on these platforms:
 [Github](https://github.com/MayankVikash)  
 
 
-When it comes to posting stories, no one can forget Hackernoon, which is one of my favourite reading platforms and I am also a contributor writer there.
+When it comes to posting stories, no one can forget Hackernoon, which is one of my favorite reading platforms and I am also a contributor writer there.
 
 ## My Story
 I am a 9th-grade student. I learned Java as a part of my school syllabus and the moment I read about it, I fell in love with it. I started learning about Object-oriented programming languages and their history. Then, Java, writing the first program in java, logic building, number programs, conditional statements, loops and so much more.
@@ -87,7 +88,7 @@ I also have an interest in writing and I am also a contributor writer at Hackern
 
 Although I am not always active on this site because of school and studies, I post at least one article a month, sometimes maybe two.
 
-Currently, I am building my URL shortener build entirely with Javascript. It is my favourite project. I have written the logic of the shortener, I just need to build a landing page and a form where you can put the URL. 
+Currently, I am building my URL shortener build entirely with Javascript. It is my favorite project. I have written the logic of the shortener, I just need to build a landing page and a form where you can put the URL. 
 
 Check out the development:
 [Why URLRealm is not ready yet?](https://mayankvikash.in/news/Why-URLRealm-is-not-ready-yet/)
@@ -98,7 +99,7 @@ I forgot to mention that I am also learning app development and I have published
 
 I am learning game development too in Unity by following Youtube videos it is quite fun and I am enjoying it.
 
-Some of my favourite Youtube channels:
+Some of my favorite Youtube channels:
 [Code With Harry](https://youtube.com/c/CodeWithHarry)
 
 [FreeCodeCamp](https://youtube.com/c/Freecodecamp)
@@ -129,7 +130,7 @@ I also read a lot of blogs, why don't you check them out too:
 I have just bought a new domain from GoDaddy. [mayankvikash.in](https://mayankvikash.in/). I am building this website with Jekyll and it uses the Cayman theme and is hosted on Github. Check out the repository: [mayankvikash.in Github Repository](https://github.com/MayankVikash/mayankvikash.in)
 
 I have some future post ideas for this website. Some of them are:
-- Simple Blog in HTML, CSS and Javascript
+- Simple Blog in HTML, CSS, and Javascript
 - 5 Physics questions in Java
 - How to be good at programming and learn fast
 
@@ -142,7 +143,7 @@ I will post that essay here or on my medium.
 
 ## Contribute to mayankvikash.in
 
-mayankvikash.in is a growing website and it is currently managed by a single person. If you want to help others by share your learning, you are most welcome to do so. Share the link of your article by tagging @MayankVikash1 on Twitter and your article will be on this website. 
+mayankvikash.in is a growing website and it is currently managed by a single person. If you want to help others by sharing your learning, you are most welcome to do so. Share the link of your article by tagging @MayankVikash1 on Twitter and your article will be on this website. 
 
 Whether it is a programming blog or tip, course or tutorial, news or just opinion, all are treated as the same and given equal importance. This site covers a wide-ranging of categories. Don't hesitate to send your article if you are a new article. I will edit and mistakes to make the article stand out to readers.
 
