@@ -1,5 +1,5 @@
 ---
-title: Dream11's new policy make holidays better for employees
+title: Dream11's new policy makes holidays better for employees
 description: Indian tech firm Dream11 will impose a fine of 1 lakh on employees who will disturb their colleagues on holidays.
 cover: https://mayankvikash.in/posts/Dream11-new-policy-make-holidays-better-for-employees/dream11-new-policy-cover.webp
 
