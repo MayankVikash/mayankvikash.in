@@ -7,11 +7,13 @@ description: Welcome to Posts | Mayank Vikash
 
 ## Welcome to Posts | Mayank Vikash
 
-- Last updated Jan 7, 2023
+- Last updated Jan 13, 2023
 
 I love making random things and I also post about them here, you can read my posts about what I made and how I made them. You can also find the latest news and development published on this website here as the news section has been moved here. 
 
 Here you will get a sitemap for the latest posts published on this website:
+
+[Twitter is shutting down its newsletter tool Revue](https://mayankvikash.in/posts/Twitter-is-shutting-down-revue/)
 
 [The developer who stole $300K from the e-commerce site Zulily](https://mayankvikash.in/posts/The-developer-who-stole-300K-from-the-e-commerce-site-Zulily/)
 
