@@ -9,8 +9,7 @@ cover: https://mayankvikash.in/img/home/Home-Mayank-Vikash.webp
 ![Home  Mayank Vikash](https://mayankvikash.in/img/home/Home-Mayank-Vikash.webp)
 
 - Written by Mayank Vikash
-- Published on 3 October 2022
-- Last updated Jan 1, 2023.
+- Last updated Jan 13, 2023
 
 
 I am Mayank Vikash, a student with some knowledge of how thing works.
@@ -25,6 +24,8 @@ I have learned all this and still learning more and have also created several pr
 
 Check out the latest posts:
 
+[Twitter is shutting down its newsletter tool Revue](https://mayankvikash.in/posts/Twitter-is-shutting-down-revue/)
+
 [The developer who stole $300K from the e-commerce site Zulily](https://mayankvikash.in/posts/The-developer-who-stole-300K-from-the-e-commerce-site-Zulily/)
 
 [Dream11’s new policy makes holidays better for employees](https://mayankvikash.in/posts/Dream11-new-policy-make-holidays-better-for-employees/)
@@ -35,8 +36,6 @@ Check out the latest posts:
 
 [What is ChatGPT? Everything you need to know](https://mayankvikash.in/posts/what-is-chatgpt-everything-you-need-to-know-about-the-ai-chat-bot/)
 
-
-[Koo’s Twitter handle is suspended by Elon Musk](https://mayankvikash.in/posts/Koo-Twitter-handle-is-suspended-by-Elon-Musk/)
 
 
 You can also check out my profiles on these platforms:
