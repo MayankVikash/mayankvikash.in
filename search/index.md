@@ -3,7 +3,9 @@ title: Search
 description: Search mayankvikash.in
 
 --- 
-Welcome to Search | Mayank Vikash 
+
+# Welcome to Search | Mayank Vikash 
+
 Type the keywords in the search bar to search the site and view specific content.
 Search is powered by Google
 
