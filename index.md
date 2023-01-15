@@ -157,18 +157,3 @@ You can get in touch through Twitter, my profile [@MayankVikash1](https://twitte
 
 If you have come this long reading this page then I truly appreciate it and hope that it was worth your time.  Thanks for reading!
 
-<script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "WebSite",
-      "url": "https://mayankvikash.in/",
-      "potentialAction": {
-        "@type": "SearchAction",
-        "target": {
-          "@type": "EntryPoint",
-          "urlTemplate": "https://mayankvikash.in/search?q={search_term_string}"
-        },
-        "query-input": "required name=search_term_string"
-      }
-    }
-    </script>
