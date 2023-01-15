@@ -7,11 +7,13 @@ description: Welcome to Posts | Mayank Vikash
 
 ## Welcome to Posts | Mayank Vikash
 
-- Last updated Jan 13, 2023
+- Last updated Jan 15, 2023
 
 I love making random things and I also post about them here, you can read my posts about what I made and how I made them. You can also find the latest news and development published on this website here as the news section has been moved here. 
 
 Here you will get a sitemap for the latest posts published on this website:
+
+[Introducing Search for mayankvikash.in](https://mayankvikash.in/posts/Introducing-Search-for-mayankvikash-in/)
 
 [Twitter is shutting down its newsletter tool Revue](https://mayankvikash.in/posts/Twitter-is-shutting-down-revue/)
 
@@ -47,7 +49,7 @@ Here you will get a sitemap for the latest posts published on this website:
 
 [Why tech giants are sacking employees](https://mayankvikash.in/posts/why-tech-giants-are-sacking-employees/)
 
-[Typescript replaced Javascript to become world's favourite language](https://mayankvikash.in/posts/typescript-replaced-javascript-to-became-the-worlds-favourite-language/)
+[Typescript replaced Javascript to become world's favorite language](https://mayankvikash.in/posts/typescript-replaced-javascript-to-became-the-worlds-favourite-language/)
 
 [How to use Google's WebpShop Photoshop plugin](https://mayankvikash.in/posts/how-to-download-and-use-webp-shop-photoshop-plugin/)
 
