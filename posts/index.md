@@ -13,7 +13,7 @@ I love making random things and I also post about them here, you can read my pos
 
 Here you will get a sitemap for the latest posts published on this website:
 
-[Meet Codeword's AI Inters Aiko and Aiden](https://mayankvikash.in/posts/Meet-Codeword-s-AI-Inters-Aiko-and-Aiden/)
+[Meet Codeword's AI Interns Aiko and Aiden](https://mayankvikash.in/posts/Meet-Codeword-s-AI-Inters-Aiko-and-Aiden/)
 
 [Introducing Search for mayankvikash.in](https://mayankvikash.in/posts/Introducing-Search-for-mayankvikash-in/)
 
