@@ -44,7 +44,7 @@ According to the information in the OneNote file, Castro planned to move with st
 
 ## Conclusion
 
-I have read a lot of stories in which employees steal from their own company and this story is one of the best among them. Castro did wrong by stealing the company's profits and people's money. I am amazed at how he did all these things from writing codes to transferring payments to his accounts to charging double shipment fees when he found that the company has noticed suspicious activity.
+I have read a lot of stories in which employees steal from their own company and this story is one of the best among them. Castro did wrong by stealing the company's profits and people's money but I am amazed at how he did all these things from writing codes to transferring payments to his accounts to charging double shipment fees when he found that the company has noticed suspicious activity.
 
 I hope the police will be able to recover most of the loss and it may return to the people whose hard-earned money was stolen.
 
