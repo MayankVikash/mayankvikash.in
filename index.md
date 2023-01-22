@@ -24,7 +24,7 @@ I have learned all this and still learning more and have also created several pr
 
 Check out the latest posts:
 
-[Meet Codeword's AI Inters Aiko and Aiden](https://mayankvikash.in/posts/Meet-Codeword-s-AI-Inters-Aiko-and-Aiden/)
+[Meet Codeword's AI Interns Aiko and Aiden](https://mayankvikash.in/posts/Meet-Codeword-s-AI-Inters-Aiko-and-Aiden/)
 
 [Twitter is shutting down its newsletter tool Revue](https://mayankvikash.in/posts/Twitter-is-shutting-down-revue/)
 
