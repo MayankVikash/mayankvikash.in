@@ -1,5 +1,5 @@
 ---
-title: Meet Codeword's AI Inters Aiko and Aiden
+title: Meet Codeword's AI Interns Aiko and Aiden
 description: Aiko and Aiden are the world's first AI Interns to be hired.
 cover: https://mayankvikash.in/posts/Meet-Codeword-s-AI-Inters-Aiko-and-Aiden/Meet-Aiden-and-Aiko.webp
 
