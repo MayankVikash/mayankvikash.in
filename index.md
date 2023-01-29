@@ -9,7 +9,7 @@ cover: https://mayankvikash.in/img/home/Home-Mayank-Vikash.webp
 ![Home  Mayank Vikash](https://mayankvikash.in/img/home/Home-Mayank-Vikash.webp)
 
 - Written by Mayank Vikash
-- Last updated Jan 22, 2023
+- Last updated Jan 29, 2023
 
 
 I am Mayank Vikash, a student with some knowledge of how thing works.
@@ -24,6 +24,8 @@ I have learned all this and still learning more and have also created several pr
 
 Check out the latest posts:
 
+[Buzzfeed-OpenAI Collaboration, the company will use AI to generate content for the website](https://mayankvikash.in/posts/buzzfeed-openai-collaboration-the-company-will-use-ai-to-generate-content-for-the-website/)
+
 [Meet Codeword's AI Interns Aiko and Aiden](https://mayankvikash.in/posts/Meet-Codeword-s-AI-Inters-Aiko-and-Aiden/)
 
 [Twitter is shutting down its newsletter tool Revue](https://mayankvikash.in/posts/Twitter-is-shutting-down-revue/)
@@ -34,7 +36,6 @@ Check out the latest posts:
 
 [My 2022 Recap](https://mayankvikash.in/posts/my-2022-recap/)
 
-[Twitter removes source labels](https://mayankvikash.in/posts/twitter-removes-source-labels-from-tweets/)
 
 
 
