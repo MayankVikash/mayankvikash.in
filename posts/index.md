@@ -7,11 +7,13 @@ description: Welcome to Posts | Mayank Vikash
 
 ## Welcome to Posts | Mayank Vikash
 
-- Last updated Jan 22, 2023
+- Last updated Jan 29, 2023
 
 I love making random things and I also post about them here, you can read my posts about what I made and how I made them. You can also find the latest news and development published on this website here as the news section has been moved here. 
 
 Here you will get a sitemap for the latest posts published on this website:
+
+[Buzzfeed-OpenAI Collaboration, the company will use AI to generate content for the website](https://mayankvikash.in/posts/buzzfeed-openai-collaboration-the-company-will-use-ai-to-generate-content-for-the-website/)
 
 [Meet Codeword's AI Interns Aiko and Aiden](https://mayankvikash.in/posts/Meet-Codeword-s-AI-Inters-Aiko-and-Aiden/)
 
