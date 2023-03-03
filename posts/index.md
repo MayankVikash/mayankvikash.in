@@ -7,11 +7,13 @@ description: Welcome to Posts | Mayank Vikash
 
 ## Welcome to Posts | Mayank Vikash
 
-- Last updated Feb 3, 2023
+- Last updated Mar 3, 2023
 
 I love making random things and I also post about them here, you can read my posts about what I made and how I made them. You can also find the latest news and development published on this website here as the news section has been moved here. 
 
 Here you will get a sitemap for the latest posts published on this website:
+
+[How ChatGPT helped a company to get back its $109,500 from a client who was not paying](https://mayankvikash.in/posts/how-chatgpt-help-a-company-to-get-back-its-109500-from-a-client-who-was-not-paying/)
 
 [Net Zero Emission and Nuclear Energy](https://mayankvikash.in/posts/Net-Zero-Emission-and-Nuclear-Energy/Mayank-Vikash-Net-Zero-Emission-and-Nuclear-Energy.pdf) [PDF]
 
