@@ -9,7 +9,7 @@ cover: https://mayankvikash.in/img/home/Home-Mayank-Vikash.webp
 ![Home  Mayank Vikash](https://mayankvikash.in/img/home/Home-Mayank-Vikash.webp)
 
 - Written by Mayank Vikash
-- Last updated Jan 29, 2023
+- Last updated Mar 3, 2023
 
 
 I am Mayank Vikash, a student with some knowledge of how thing works.
@@ -24,6 +24,9 @@ I have learned all this and still learning more and have also created several pr
 
 Check out the latest posts:
 
+[How ChatGPT helped a company to get back its $109,500 from a client who was not paying](https://mayankvikash.in/posts/how-chatgpt-help-a-company-to-get-back-its-109500-from-a-client-who-was-not-paying/)
+
+
 [Buzzfeed-OpenAI Collaboration, the company will use AI to generate content for the website](https://mayankvikash.in/posts/buzzfeed-openai-collaboration-the-company-will-use-ai-to-generate-content-for-the-website/)
 
 [Meet Codeword's AI Interns Aiko and Aiden](https://mayankvikash.in/posts/Meet-Codeword-s-AI-Inters-Aiko-and-Aiden/)
@@ -34,7 +37,7 @@ Check out the latest posts:
 
 [Dream11’s new policy makes holidays better for employees](https://mayankvikash.in/posts/Dream11-new-policy-make-holidays-better-for-employees/)
 
-[My 2022 Recap](https://mayankvikash.in/posts/my-2022-recap/)
+
 
 
 
