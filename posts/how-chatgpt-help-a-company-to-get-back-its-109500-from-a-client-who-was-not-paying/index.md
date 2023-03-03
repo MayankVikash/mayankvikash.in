@@ -61,5 +61,7 @@ Many people appreciated the clever use of ChatGPT but some pointed out that all 
 Let me know what you think of this incident. Is this true? Can ChatGPT replace expensive lawyers in sending legal notices?
 
 *Written by Mayank Vikash*
+
 *Published on 3rd March 2023 at 10:15 IST*
+
 *Last updated Mar 3, 2023, at 10:20 IST*
