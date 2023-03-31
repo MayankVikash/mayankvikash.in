@@ -1,5 +1,5 @@
 ---
-title: Github laid off its entire Indian staff
+title: GitHub laid off its entire Indian staff
 description: Microsoft-owned Github laid off its entire Indian staff
 cover: https://mayankvikash.in/posts/github-laid-off-its-entire-indian-staff/Github-laid-off-its-entire-Indian-staff.webp
 
