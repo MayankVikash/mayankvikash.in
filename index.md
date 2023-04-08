@@ -1,6 +1,6 @@
 ---
 title: Mayank Vikash
-description: Personal website of Mayank Vikash.
+description: Just a random guy with interest in writing
 cover: https://mayankvikash.in/assests/img/mvlogo2023.png
 
 ---
