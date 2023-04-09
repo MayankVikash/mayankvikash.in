@@ -7,11 +7,13 @@ description: Welcome to Posts | Mayank Vikash
 
 ## Welcome to Posts | Mayank Vikash
 
-- Last updated Mar 31, 2023
+- Last updated Apr 9, 2023
 
 I love making random things and I also post about them here, you can read my posts about what I made and how I made them. You can also find the latest news and development published on this website here as the news section has been moved here. 
 
 Here you will get a sitemap for the latest posts published on this website:
+
+[Rare Earth Elements Reserve Found in Andhra Pradesh and why are they important?](https://mayankvikash.in/posts/rare-earth-elements-reserve-found-in-andhra-pradesh-and-why-are-they-important/)
 
 [Github laid off its entire Indian staff](https://mayankvikash.in/posts/github-laid-off-its-entire-indian-staff/)
 
