@@ -1,5 +1,5 @@
 ---
-title: Rare Earth Elements Reserve Found in Andhra Pradesh and why are they important?
+title: Rare Earth Elements Reserves Found in Andhra Pradesh and why are they important?
 description: The announcement comes after the Geological Survey of India discovered 5.9 million tonnes of lithium reserve in the Reasi district in Jammu and Kashmir.
 cover: https://mayankvikash.in/posts/rare-earth-elements-reserve-found-in-andhra-pradesh-and-why-are-they-important/rare-earth-metals-reserve-found-in-india.webp
 
