@@ -1,6 +1,6 @@
 ---
 title: Essays
-description: A collection of os short and long essays on various topics.
+description: A collection of short and long essays on various topics by Mayank Vikash.
 
 ---
 
