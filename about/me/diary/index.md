@@ -1,10 +1,10 @@
 ---
-title: Diaries
+title: Diary
 description: Digital version of my daily diary.
 
 ---
 
-## Welcome to Diaries | Mayank Vikash
+## Welcome to Diary | Mayank Vikash
 
 - Lasy updated 17th April, 2023
 
