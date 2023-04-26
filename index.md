@@ -18,6 +18,8 @@ This website mainly focuses on tech, International Affairs, Defence, Science, an
 
 You can check out the latest five articles from Post:
 
+[SpaceX Starship Explodes Minutes After Launch; What Elon Learned From Million Dollars Failure?](https://mayankvikash.in/posts/SpaceX-Starship-Explodes-Minutes-After-Launch-What-Elon-Learned-From-Million-Dollars-Failure/)
+
 [GitHub laid off its entire Indian staff](https://mayankvikash.in/posts/github-laid-off-its-entire-indian-staff/)
 
 [How ChatGPT helped a company to get back its $109,500 from a client who was not paying](https://mayankvikash.in/posts/how-chatgpt-help-a-company-to-get-back-its-109500-from-a-client-who-was-not-paying/)
@@ -28,13 +30,11 @@ You can check out the latest five articles from Post:
 
 [Twitter is shutting down its newsletter tool Revue](https://mayankvikash.in/posts/Twitter-is-shutting-down-revue/)
 
-[The developer who stole $300K from the e-commerce site Zulily](https://mayankvikash.in/posts/The-developer-who-stole-300K-from-the-e-commerce-site-Zulily/)
-
 About the Creator: Mayank Vikash is a 16-year-old Indian student passionate about tech and AI and the creator of MayankVikash.in.
 
 This website is made with Jekyll, uses the Cayman theme and is hosted on [GitHub](https://github.com/MayankVikash/mayankvikash.in/).
 
-Last updated Saturday, April 4, 2023, at 12:10 IST
+Last updated Wednesday, April 26, 2023, at 18:50 IST
 
 
 <script type="application/ld+json">
