@@ -18,6 +18,8 @@ This website mainly focuses on tech, International Affairs, Defence, Science, an
 
 You can check out the latest five articles from Post:
 
+[UK regulators block Microsoft's Activision Takeover](https://mayankvikash.in/posts/uk-regulators-block-microsofts-activision-takeover/)
+
 [SpaceX Starship Explodes Minutes After Launch; What Elon Learned From Million Dollars Failure?](https://mayankvikash.in/posts/SpaceX-Starship-Explodes-Minutes-After-Launch-What-Elon-Learned-From-Million-Dollars-Failure/)
 
 [GitHub laid off its entire Indian staff](https://mayankvikash.in/posts/github-laid-off-its-entire-indian-staff/)
@@ -28,13 +30,12 @@ You can check out the latest five articles from Post:
 
 [Meet Codeword's AI Interns Aiko and Aiden](https://mayankvikash.in/posts/Meet-Codeword-s-AI-Inters-Aiko-and-Aiden/)
 
-[Twitter is shutting down its newsletter tool Revue](https://mayankvikash.in/posts/Twitter-is-shutting-down-revue/)
 
 About the Creator: Mayank Vikash is a 16-year-old Indian student passionate about tech and AI and the creator of MayankVikash.in.
 
 This website is made with Jekyll, uses the Cayman theme and is hosted on [GitHub](https://github.com/MayankVikash/mayankvikash.in/).
 
-Last updated Wednesday, April 26, 2023, at 18:50 IST
+Last updated Sunday, April 30, 2023, at 5:50 IST
 
 
 <script type="application/ld+json">
