@@ -13,6 +13,8 @@ I love making random things and I also post about them here, you can read my pos
 
 Here you will get a sitemap for the latest posts published on this website:
 
+[YouTube Music to Add Podcast Service Soon](https://mayankvikash.in/posts/YouTube-Music-to-Add-Podcast-Service-Soon/)
+
 [UK regulators block Microsoft's Activision Takeover](https://mayankvikash.in/posts/uk-regulators-block-microsofts-activision-takeover/)
 
 [SpaceX Starship Explodes Minutes After Launch; What Elon Learned From Million Dollars Failure?](https://mayankvikash.in/posts/SpaceX-Starship-Explodes-Minutes-After-Launch-What-Elon-Learned-From-Million-Dollars-Failure/)
