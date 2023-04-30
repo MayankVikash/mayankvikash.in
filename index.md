@@ -28,8 +28,6 @@ You can check out the latest five articles from Post:
 
 [Buzzfeed-OpenAI Collaboration, the company will use AI to generate content for the website](https://mayankvikash.in/posts/buzzfeed-openai-collaboration-the-company-will-use-ai-to-generate-content-for-the-website/)
 
-[Meet Codeword's AI Interns Aiko and Aiden](https://mayankvikash.in/posts/Meet-Codeword-s-AI-Inters-Aiko-and-Aiden/)
-
 
 About the Creator: Mayank Vikash is a 16-year-old Indian student passionate about tech and AI and the creator of MayankVikash.in.
 
