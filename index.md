@@ -18,6 +18,8 @@ This website mainly focuses on tech, International Affairs, Defence, Science, an
 
 You can check out the latest five articles from Post:
 
+[YouTube Music to Add Podcast Service Soon](https://mayankvikash.in/posts/YouTube-Music-to-Add-Podcast-Service-Soon/)
+
 [UK regulators block Microsoft's Activision Takeover](https://mayankvikash.in/posts/uk-regulators-block-microsofts-activision-takeover/)
 
 [SpaceX Starship Explodes Minutes After Launch; What Elon Learned From Million Dollars Failure?](https://mayankvikash.in/posts/SpaceX-Starship-Explodes-Minutes-After-Launch-What-Elon-Learned-From-Million-Dollars-Failure/)
@@ -26,10 +28,9 @@ You can check out the latest five articles from Post:
 
 [How ChatGPT helped a company to get back its $109,500 from a client who was not paying](https://mayankvikash.in/posts/how-chatgpt-help-a-company-to-get-back-its-109500-from-a-client-who-was-not-paying/)
 
-[Buzzfeed-OpenAI Collaboration, the company will use AI to generate content for the website](https://mayankvikash.in/posts/buzzfeed-openai-collaboration-the-company-will-use-ai-to-generate-content-for-the-website/)
 
 
-About the Creator: Mayank Vikash is a 16-year-old Indian student passionate about tech and AI and the creator of MayankVikash.in.
+Mayank Vikash is a 16-year-old Indian student passionate about tech and AI and the creator of MayankVikash.in.
 
 This website is made with Jekyll, uses the Cayman theme and is hosted on [GitHub](https://github.com/MayankVikash/mayankvikash.in/).
 
