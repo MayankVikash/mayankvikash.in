@@ -18,6 +18,8 @@ This website mainly focuses on tech, International Affairs, Defence, Science, an
 
 You can check out the latest five articles from Post:
 
+[Cancer can be identified easily with the new AI tool](https://mayankvikash.in/posts/Cancer-can-be-identified-easily-with-the-new-AI-tool/)
+
 [YouTube Music to Add Podcast Service Soon](https://mayankvikash.in/posts/YouTube-Music-to-Add-Podcast-Service-Soon/)
 
 [UK regulators block Microsoft's Activision Takeover](https://mayankvikash.in/posts/uk-regulators-block-microsofts-activision-takeover/)
@@ -26,15 +28,13 @@ You can check out the latest five articles from Post:
 
 [GitHub laid off its entire Indian staff](https://mayankvikash.in/posts/github-laid-off-its-entire-indian-staff/)
 
-[How ChatGPT helped a company to get back its $109,500 from a client who was not paying](https://mayankvikash.in/posts/how-chatgpt-help-a-company-to-get-back-its-109500-from-a-client-who-was-not-paying/)
-
 
 
 Mayank Vikash is a 16-year-old Indian student passionate about tech and AI and the creator of MayankVikash.in.
 
 This website is made with Jekyll, uses the Cayman theme and is hosted on [GitHub](https://github.com/MayankVikash/mayankvikash.in/).
 
-Last updated Sunday, April 30, 2023, at 5:50 IST
+Last updated Monday, May 1, 2023, at 22:35 IST
 
 
 <script type="application/ld+json">
