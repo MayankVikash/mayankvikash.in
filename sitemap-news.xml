@@ -11,10 +11,24 @@
      <news:language>en</news:language>
    </news:publication>
    <news:publication_date>2022-12-25</news:publication_date>
-     <news:title>Twitter removes Source Labels from tweets</news:title>
+     <news:title> </news:title>
     </news:news>
   </url>
 -->
+
+<url>
+   <loc>https://mayankvikash.in/posts/Cancer-can-be-identified-easily-with-the-new-AI-tool/</loc>
+   <news:news>
+   <news:publication>
+     <news:name>Mayank Vikash</news:name>
+     <news:language>en</news:language>
+   </news:publication>
+   <news:publication_date>2023-05-01</news:publication_date>
+     <news:title>Cancer can be identified easily with the new AI tool</news:title>
+    </news:news>
+  </url>
+
+
         
         
         
