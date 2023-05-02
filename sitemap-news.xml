@@ -10,11 +10,23 @@
      <news:name>Mayank Vikash</news:name>
      <news:language>en</news:language>
    </news:publication>
-   <news:publication_date>2022-12-25</news:publication_date>
+   <news:publication_date>2023-12-25</news:publication_date>
      <news:title> </news:title>
     </news:news>
   </url>
 -->
+        
+          <url>
+   <loc>https://mayankvikash.in/posts/US-s-F-35-Jets-Failed-To-Identify-Russia-s-AD-Systems/</loc>
+   <news:news>
+   <news:publication>
+     <news:name>Mayank Vikash</news:name>
+     <news:language>en</news:language>
+   </news:publication>
+   <news:publication_date>2023-05-02</news:publication_date>
+     <news:title>US's F-35 Jets Failed To Identify Russia’s AD Systems</news:title>
+    </news:news>
+  </url>
 
 <url>
    <loc>https://mayankvikash.in/posts/Cancer-can-be-identified-easily-with-the-new-AI-tool/</loc>
