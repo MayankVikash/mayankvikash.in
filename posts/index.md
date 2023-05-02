@@ -7,11 +7,13 @@ description: Welcome to Posts | Mayank Vikash
 
 ## Welcome to Posts | Mayank Vikash
 
-- Last updated May 1, 2023
+- Last updated May 2, 2023
 
 I love making random things and I also post about them here, you can read my posts about what I made and how I made them. You can also find the latest news and development published on this website here as the news section has been moved here. 
 
 Here you will get a sitemap for the latest posts published on this website:
+
+[US's F-35 Jets Failed To Identify Russia’s AD Systems](https://mayankvikash.in/posts/US-s-F-35-Jets-Failed-To-Identify-Russia-s-AD-Systems/)
 
 [Cancer can be identified easily with the new AI tool](https://mayankvikash.in/posts/Cancer-can-be-identified-easily-with-the-new-AI-tool/)
 
