@@ -1,11 +1,12 @@
 --- 
-title: Population in India - Is it Good or Bad for the 5th Largest Economy? Submission
+title: Population in India - Is it Good or Bad for the 5th Largest Economy? Submission 1
 
 
 ---
 
 India is currently the world's first-most populous country,
-with a population of over 140.76 crores people. While a growing population can bring positive effects on an economy, such as increased 
+with a population of over 140.76 crores people. While a growing 
+population can bring positive effects on an economy, such as increased 
 workforce and consumer demand, it can also strain resources and put pressure
 on infrastructure. Therefore, the impact of population growth on the 5th 
 largest economy is a topic of debate among economists, policymakers, and the public.
@@ -28,3 +29,5 @@ and infrastructure. To manage population growth effectively, policymakers and st
 holistic approach and implement policies that address the underlying social and economic challenges. 
 With the right strategies in place, India can harness the benefits of a growing population while ensuring 
 sustainable and equitable growth for all.
+
+Written by Harish
