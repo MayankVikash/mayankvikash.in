@@ -1,7 +1,9 @@
 
 ---
 title: Summers are becoming hotter with each passing year. Write a description of one such very hot day. What did you see and hear as you walked outside? How were birds and animals affected? 
-description: Essay on "Summers are becoming hotter with each passing year. Write a description of one such very hot day. What did you see and hear as you walked outside? How were birds and animals affected? " 
+
+description: Essay on "Summers are becoming hotter with each passing year. Write a description of one such very hot day. What did you see and hear as you walked outside? How were birds and animals affected?" 
+
 cover: https://mayankvikash.in/essays/summers-are-becoming-hotter-with-each-passing-year-write-a-description-of-one-such-very-hot-day-what-did-you-see-and-hear-as-you-walked-outside/Essay-Summers-are-becoming-hotter-with-each-passing-year.jpg
 
 
