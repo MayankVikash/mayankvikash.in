@@ -21,7 +21,7 @@ The rural area of Jaisalmer was entirely different from the urban area. There we
 
 When we left home in the morning, we could see a lot of birds flying in the cloudy sky, but now we can't see a single bird in the sky. We had seen a bird on the ground, suffering from the extreme temperature. He probably needed water, but we had none, so we picked it up and took it to a nearby house. The house owner was a kind man. He took the bird inside, gave it some water in a pot, and offered us cold water. It was so refreshing after we took the first sip from the glass; it felt like we were reborn. We had also not noticed any animals on the streets - no dogs, cats, not even cows. They had probably relocated because of the rising temperatures.
 
-We reached home at ten and ate like we had not eaten for years. After some rest, we told everything we had experienced during the morning walk to the family members.
+We reached home by ten fifteen and ate like we had not eaten for years. After some rest, we told everything we had experienced during the morning walk to the family members.
 
 This story may show the issue as less significant, but it is pressing and one of the biggest problems in the modern world. Many animals, birds and even humans lost their lives due to heatstrokes. Summer had been expressed as a season of fun and enjoyment in the past, but in modern times it is no less than a nightmare. Crops get destroyed, lands become barren, and people get sick due to dehydration and hot temperatures. We need to take the necessary actions to protect ourselves and our surroundings from the impact of rising temperatures. The solutions include planting more trees, reducing carbon emissions and switching to renewable energy. We can help other living beings by placing a bowl of water outside the house for the birds and animals to drink. If we keep exploiting nature and do not take necessary actions, the earth will become a desert, with temperatures reaching over sixty degrees in a few centuries. We have to work hard to make the Earth a better place for future generations.
 
@@ -29,5 +29,5 @@ This story may show the issue as less significant, but it is pressing and one of
 
 *Published on Sunday, 14th May 2023 at 12:55 IST*
 
-*Last updated Sunday, May 14, 2023, at 23:17 IST*
+*Last updated Sunday, May 14, 2023, at 23:19 IST*
 
