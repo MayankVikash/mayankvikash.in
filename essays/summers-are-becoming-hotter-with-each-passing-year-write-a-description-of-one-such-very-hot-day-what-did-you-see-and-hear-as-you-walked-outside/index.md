@@ -1,4 +1,3 @@
-
 ---
 title: Summers are becoming hotter with each passing year. Write a description of one such very hot day. What did you see and hear as you walked outside? How were birds and animals affected? 
 
@@ -32,4 +31,4 @@ This story may show the issue as less significant, but it is pressing and one of
 
 *Published on Sunday, 14th May 2023 at 12:55 IST*
 
-*Last updated Sunday, May 14, 2023, at 23:24 IST*
+*Last updated Sunday, May 14, 2023, at 23:25 IST*
