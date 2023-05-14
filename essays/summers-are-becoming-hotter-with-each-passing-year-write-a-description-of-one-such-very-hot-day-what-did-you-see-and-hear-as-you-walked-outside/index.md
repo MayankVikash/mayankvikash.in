@@ -1,3 +1,4 @@
+
 ---
 title: Summers are becoming hotter with each passing year. Write a description of one such very hot day. What did you see and hear as you walked outside? How were birds and animals affected? 
 description: Essay on "Summers are becoming hotter with each passing year. Write a description of one such very hot day. What did you see and hear as you walked outside? How were birds and animals affected? " 
@@ -23,11 +24,10 @@ When we left home in the morning, we could see a lot of birds flying in the clou
 
 We reached home by ten fifteen and ate like we had not eaten for years. After some rest, we told everything we had experienced during the morning walk to the family members.
 
-This story may show the issue as less significant, but it is pressing and one of the biggest problems in the modern world. Many animals, birds and even humans lost their lives due to heatstrokes. Summer had been expressed as a season of fun and enjoyment in the past, but in modern times it is no less than a nightmare. Crops get destroyed, lands become barren, and people get sick due to dehydration and hot temperatures. We need to take the necessary actions to protect ourselves and our surroundings from the impact of rising temperatures. The solutions include planting more trees, reducing carbon emissions and switching to renewable energy. We can help other living beings by placing a bowl of water outside the house for the birds and animals to drink. If we keep exploiting nature and do not take necessary actions, the earth will become a desert, with temperatures reaching over sixty degrees in a few centuries. We need to work hard to make the Earth a better place for future generations.
+This story may show the issue as less significant, but it is pressing and one of the biggest problems in the modern world. Many animals, birds and even humans lost their lives due to heatstrokes. Summer had been expressed as a season of fun and enjoyment in the past, but in modern times it is no less than a nightmare. Crops get destroyed, lands become barren, and people get sick due to dehydration and hot temperatures. We need to take the necessary actions to protect ourselves and our surroundings from the impact of rising temperatures. The solutions include planting more trees, reducing carbon emissions and switching to renewable energy. We can help other living beings by placing a bowl of water outside the house for the birds and animals to drink. If we keep exploiting nature and do not take necessary actions, the earth will become a desert, with temperatures reaching over sixty degrees in a few centuries. We have to work hard if we want to make the Earth a better place for future generations.
 
 *Written by Mayank Vikash*
 
 *Published on Sunday, 14th May 2023 at 12:55 IST*
 
-*Last updated Sunday, May 14, 2023, at 23:20 IST*
-
+*Last updated Sunday, May 14, 2023, at 23:24 IST*
