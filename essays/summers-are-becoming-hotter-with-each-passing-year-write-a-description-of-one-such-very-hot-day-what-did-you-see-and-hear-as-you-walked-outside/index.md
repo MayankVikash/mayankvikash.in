@@ -1,11 +1,11 @@
 ---
 title: Summers are becoming hotter with each passing year. Write a description of one such very hot day. What did you see and hear as you walked outside? How were birds and animals affected? 
 description: Essay on "Summers are becoming hotter with each passing year. Write a description of one such very hot day. What did you see and hear as you walked outside? How were birds and animals affected? " 
-cover: https://mayankvikash.in/essays/summers-are-becoming-hotter-with-each-passing-year-write-a-description-of-one-such-very-hot-day-what-did-you-see-and-hear-as-you-walked-outside%20/Essay-Summers-are-becoming-hotter-with-each-passing-year.jpg
+cover: https://mayankvikash.in/essays/summers-are-becoming-hotter-with-each-passing-year-write-a-description-of-one-such-very-hot-day-what-did-you-see-and-hear-as-you-walked-outside/Essay-Summers-are-becoming-hotter-with-each-passing-year.jpg
 
 
 ---
-![Summers are getting hotter with each passing year](https://mayankvikash.in/essays/summers-are-becoming-hotter-with-each-passing-year-write-a-description-of-one-such-very-hot-day-what-did-you-see-and-hear-as-you-walked-outside%20/Essay-Summers-are-becoming-hotter-with-each-passing-year.jpg)
+![Summers are getting hotter with each passing year](https://mayankvikash.in/essays/summers-are-becoming-hotter-with-each-passing-year-write-a-description-of-one-such-very-hot-day-what-did-you-see-and-hear-as-you-walked-outside/Essay-Summers-are-becoming-hotter-with-each-passing-year.jpg)
 
 India is famous all around the world for its different seasons and extreme as well as pleasant climate. The unique features of the Indian subcontinent are found nowhere else. India mainly experiences five seasons Spring, Summer, Monsoon, Autumn and Winder. Summer is considered the best among other seasons by the Indians, but its popularity is decreasing drastically each day as the temperatures are constantly increasing because of climate change. Summer is when the country experiences most death because of extreme weather conditions. It is becoming unbearable for the people as the day temperatures outside reach 60°C. Summer was often associated with fun and enjoyment, but that is not the case anymore.
 
