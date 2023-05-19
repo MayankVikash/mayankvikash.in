@@ -1,8 +1,10 @@
 ---
 title: Attracting visitors would be more difficult with Google's and Bing's implementation of AI in their Search Engines
 description: Google and Bard are introducing Generative AI into their search engines.
+cover: https://mayankvikash.in/posts/attracting-visitors-would-be-more-difficult-with-googles-and-bings-implementation-of-ai-in-their-search-engines/Google-and-Bing-implementing-AI.png
 
 ---
+![Google and Bing are implementing AI](https://mayankvikash.in/posts/attracting-visitors-would-be-more-difficult-with-googles-and-bings-implementation-of-ai-in-their-search-engines/Google-and-Bing-implementing-AI.png)
 
 You think of a question, type and search for it, and the search engines check its database and show you the pages related to your search terms. This was how search engines worked till now. With the introduction of AI chatbots like OpenAI's ChatGPT, Google's Bard, and Bing's Sydney, it has become difficult for website owners to attract visitors.
 
@@ -50,4 +52,4 @@ The introduction of generative AI has advantages but more disadvantages. Search 
 
 *Published on Friday, 20th May 2023 at 00:54 IST*
 
-*Last updated Friday, May 20, 2023, at 00:55 IST*
+*Last updated Friday, May 20, 2023, at 01:13 IST*
