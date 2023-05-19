@@ -7,11 +7,13 @@ description: Welcome to Posts | Mayank Vikash
 
 ## Welcome to Posts | Mayank Vikash
 
-- Last updated May 13, 2023
+- Last updated May 20, 2023
 
 I love making random things and I also post about them here, you can read my posts about what I made and how I made them. You can also find the latest news and development published on this website here as the news section has been moved here. 
 
 Here you will get a sitemap for the latest posts published on this website:
+
+[Attracting visitors would be more difficult with Google's and Bing's implementation of AI in their Search Engines](https://mayankvikash.in/posts/attracting-visitors-would-be-more-difficult-with-googles-and-bings-implementation-of-ai-in-their-search-engines/)
 
 [Twitter got a new CEO, Linda Yaccarino. Here is everything about her and why she is perfect for the role.](https://mayankvikash.in/posts/twitter-got-a-new-ceo-linda-yaccarino-who-is-she/)
 
