@@ -18,6 +18,8 @@ This website mainly focuses on tech, International Affairs, Defence, Science, an
 
 You can check out the latest five articles from Post:
 
+[Attracting visitors would be more difficult with Google's and Bing's implementation of AI in their Search Engines](https://mayankvikash.in/posts/attracting-visitors-would-be-more-difficult-with-googles-and-bings-implementation-of-ai-in-their-search-engines/)
+
 [Twitter got a new CEO, Linda Yaccarino. Here is everything about her and why she is perfect for the role](https://mayankvikash.in/posts/twitter-got-a-new-ceo-linda-yaccarino-who-is-she/)
 
 [US's F-35 Jets Failed To Identify Russia’s AD Systems](https://mayankvikash.in/posts/US-s-F-35-Jets-Failed-To-Identify-Russia-s-AD-Systems/)
@@ -26,7 +28,6 @@ You can check out the latest five articles from Post:
 
 [YouTube Music to Add Podcast Service Soon](https://mayankvikash.in/posts/YouTube-Music-to-Add-Podcast-Service-Soon/)
 
-[UK regulators block Microsoft's Activision Takeover](https://mayankvikash.in/posts/uk-regulators-block-microsofts-activision-takeover/)
 
 
 
@@ -35,7 +36,7 @@ Mayank Vikash is a 16-year-old Indian student passionate about tech and AI and t
 
 This website is made with Jekyll, uses the Cayman theme and is hosted on [GitHub](https://github.com/MayankVikash/mayankvikash.in/).
 
-Last updated Saturday, May 13, 2023, at 23:49 IST
+Last updated Friday, May 20, 2023, at 01:06 IST
 
 
 <script type="application/ld+json">
