@@ -1,5 +1,6 @@
 ---
 title: What type of friend would you like to have, someone who is rich, someone who is helpful or someone who is reliable? Describe which are the characteristics that are most important for you and why?
+description: Essay on what type of friend would you want
 
 ---
 A friend is one of the greatest assets of a human being. He is a companion to whom we can look for assistance and support. He celebrates our joy and consoles us when we are sad. He takes part in our hobbies, encourages us and motivates us. He is the one who cheers us up in our hard times. He has an immense amount of influence on our daily life. A friend is one of the most crucial parts of human life. It is important to decide whom we choose to be our friend, for we tend to implement the behaviours and characteristics of our close ones in ourselves. In this harsh world, finding a good friend is as important as finding a source of income, for a good friend can not only assist us, but he can teach us, guide us, and just like the parents scold us if we ever do something wrong. A good friend can be the most influential mentor in one's life, second only to parents and teachers.
@@ -12,4 +13,4 @@ Friendship is mutual relation. We should bring all the qualities in ourselves fi
 
 *Published on Sunday, 21st May 2023 at 01:39 IST*
 
-*Last updated Sunday, May 21, 2023, at 01:43 IST*
+*Last updated Sunday, May 21, 2023, at 01:45 IST*
