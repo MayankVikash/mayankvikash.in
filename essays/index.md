@@ -4,9 +4,12 @@ description: A collection of short and long essays on various topics by Mayank V
 
 ---
 
-Last updated 18th May, 2023
+Last updated 21st May, 2023
 
 Welcome to Essays. Here you can fin all the essays written by me. This is the place where I will try to publish atleast one essay each week.
+
+[What type of friend would you like to have, someone who is rich, someone who is helpful or someone who is reliable? Describe which are the characteristics that are most important for you and why?
+](https://mayankvikash.in/essays/what-type-of-friend-would-you-like-to-have-someone-who-is-rich-someone-who-is-helpful-or-someone-who-is-reliable-describe-which-are-the-characteris/)
 
 [Essay on Euthanasia and How to Deal with It](https://mayankvikash.in/essays/Essay-on-Euthanasia-and-How-to-Deal-with-It)
 
