@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"> 
   
+  
+  
+  
+  <url>
+<loc>https://mayankvikash.in/posts</loc>
+<lastmod>2023-05-25</lastmod>
+</url>
+  
+  <url>
+<loc>https://mayankvikash.in/posts/china-bans-us-chip-manufacturer-micron-first-significant-move-against-the-us-chip-industry/
+  </loc>
+<lastmod>2023-05-25</lastmod>
+</url>
 
   <url>
 <loc>https://mayankvikash.in/about/</loc>
@@ -13,10 +26,7 @@
 </url>
   
   
-<url>
-<loc>https://mayankvikash.in/posts</loc>
-<lastmod>2023-05-20</lastmod>
-</url>
+
   
   <url>
 <loc>https://mayankvikash.in/posts/attracting-visitors-would-be-more-difficult-with-googles-and-bings-implementation-of-ai-in-their-search-engines/
