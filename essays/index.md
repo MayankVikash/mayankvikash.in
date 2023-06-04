@@ -4,9 +4,11 @@ description: A collection of short and long essays on various topics by Mayank V
 
 ---
 
-Last updated 21st May, 2023
+Last updated 4th June, 2023
 
 Welcome to Essays. Here you can fin all the essays written by me. This is the place where I will try to publish atleast one essay each week.
+
+[“Every person must have some skill in life.” Describe an important skill that you are learning, giving the various advantages that will accrue to you after learning it.](https://mayankvikash.in/essays/every-person-must-have-some-skill-in-life-describe-an-important-skill-that-you-are-learning-giving-the-various-advantages-that-will-accrue-to-you/)
 
 [What type of friend would you like to have, someone who is rich, someone who is helpful or someone who is reliable? Describe which are the characteristics that are most important for you and why?
 ](https://mayankvikash.in/essays/what-type-of-friend-would-you-like-to-have-someone-who-is-rich-someone-who-is-helpful-or-someone-who-is-reliable-describe-which-are-the-characteris/)
