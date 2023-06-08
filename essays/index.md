@@ -4,9 +4,12 @@ description: A collection of short and long essays on various topics by Mayank V
 
 ---
 
-Last updated 4th June, 2023
+Last updated 9th June, 2023
 
 Welcome to Essays. Here you can fin all the essays written by me. This is the place where I will try to publish atleast one essay each week.
+
+[Imagine that you were all alone at home on a winter night. Suddenly there was thunder, lightning and heavy rain. There was no electricity, and the inverter in your house stopped working. Narrate how you felt and what you did at that time.
+](https://mayankvikash.in/essays/imagine-that-you-were-all-alone-at-home-on-a-winter-night-suddenly-there-was-thunder-lightning-and-heavy-rain-there-was-no-electricity/)
 
 [“Every person must have some skill in life.” Describe an important skill that you are learning, giving the various advantages that will accrue to you after learning it.](https://mayankvikash.in/essays/every-person-must-have-some-skill-in-life-describe-an-important-skill-that-you-are-learning-giving-the-various-advantages-that-will-accrue-to-you/)
 
