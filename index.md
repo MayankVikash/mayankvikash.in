@@ -18,6 +18,8 @@ This website mainly focuses on tech, International Affairs, Defence, Science, an
 
 You can check out the latest five articles from Post:
 
+[China forced last Indian reporter to leave the country](https://mayankvikash.in/posts/beijing-forces-the-last-indian-reporter-to-leave-china-this-month/)
+
 [China bans US chip manufacturer Micron - first significant move against the US chip industry; What the US can do now and why India could be helpful?
 ](https://mayankvikash.in/posts/china-bans-us-chip-manufacturer-micron-first-significant-move-against-the-us-chip-industry/)
 
@@ -27,8 +29,6 @@ You can check out the latest five articles from Post:
 
 [US's F-35 Jets Failed To Identify Russia’s AD Systems](https://mayankvikash.in/posts/US-s-F-35-Jets-Failed-To-Identify-Russia-s-AD-Systems/)
 
-[Cancer can be identified easily with the new AI tool](https://mayankvikash.in/posts/Cancer-can-be-identified-easily-with-the-new-AI-tool/)
-
 
 
 
@@ -37,7 +37,7 @@ Mayank Vikash is a 16-year-old Indian student passionate about tech and AI and t
 
 This website is made with Jekyll, uses the Cayman theme and is hosted on [GitHub](https://github.com/MayankVikash/mayankvikash.in/).
 
-Last updated Thursday, May 25, 2023, at 17:34 IST
+Last updated Wednesday, June 16, 2023, at 7:34 IST
 
 
 <script type="application/ld+json">
