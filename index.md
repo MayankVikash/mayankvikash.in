@@ -37,7 +37,7 @@ Mayank Vikash is a 16-year-old Indian student passionate about tech and AI and t
 
 This website is made with Jekyll, uses the Cayman theme and is hosted on [GitHub](https://github.com/MayankVikash/mayankvikash.in/).
 
-Last updated Wednesday, June 16, 2023, at 7:34 IST
+Last updated Wednesday, June 14, 2023, at 7:34 IST
 
 
 <script type="application/ld+json">
