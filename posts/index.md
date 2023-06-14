@@ -7,11 +7,13 @@ description: Welcome to Posts | Mayank Vikash
 
 ## Welcome to Posts | Mayank Vikash
 
-- Last updated May 25, 2023
+- Last updated June 16, 2023
 
 I love making random things and I also post about them here, you can read my posts about what I made and how I made them. You can also find the latest news and development published on this website here as the news section has been moved here. 
 
 Here you will get a sitemap for the latest posts published on this website:
+
+[China forced last Indian reporter to leave the country](https://mayankvikash.in/posts/beijing-forces-the-last-indian-reporter-to-leave-china-this-month/)
 
 [China bans US chip manufacturer Micron - first significant move against the US chip industry; What the US can do now and why India could be helpful?
 ](https://mayankvikash.in/posts/china-bans-us-chip-manufacturer-micron-first-significant-move-against-the-us-chip-industry/)
