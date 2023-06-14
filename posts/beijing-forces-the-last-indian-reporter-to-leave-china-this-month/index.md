@@ -27,6 +27,6 @@ China has always complained regarding its journalists in overseas nations face d
 
 Written by Mayank Vikash
 
-Published on Wednesday, 14rh June 2023 at 7:30 IST 
+Published on Wednesday, 14th June 2023 at 7:30 IST 
 
 Last updated Wednesday, June 14, 2023, at 7:32 IST 
