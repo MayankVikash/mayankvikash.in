@@ -1,6 +1,6 @@
 ---
 title: You visited a heritage site with your classmates and teachers. Describe what you saw and learned from your visit.
-description: 500 words long essay on a visit to a heritage site.
+description: Essay on a visit to a heritage site.
 cover: https://mayankvikash.in/essays/you-visited-a-heritage-site-with-your-classmates-and-teachers-describe-what-you-saw-and-learned-from-your-visit/Essay-on-visit-to-heritage-site.webp
 
 ---
