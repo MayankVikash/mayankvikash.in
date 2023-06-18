@@ -8,6 +8,8 @@ Last updated 18th June, 2023
 
 Welcome to Essays. Here you can fin all the essays written by me. This is the place where I will try to publish atleast one essay each week.
 
+[“Prayer does not change things. It changes people and people change things.” What do you think about the saying? Describe an incident from your personal experience to prove your point.](https://mayankvikash.in/essays/prayer-does-not-change-things-it-changes-people-and-people-change-things-what-do-you-think-about-the-saying-describe-an-incident-from-your-person/)
+
 [You visited a heritage site with your classmates and teachers. Describe what you saw and learned from your visit](https://mayankvikash.in/essays/you-visited-a-heritage-site-with-your-classmates-and-teachers-describe-what-you-saw-and-learned-from-your-visit/)
 
 [Imagine that you were all alone at home on a winter night. Suddenly there was thunder, lightning and heavy rain. There was no electricity, and the inverter in your house stopped working. Narrate how you felt and what you did at that time.
