@@ -1,7 +1,8 @@
 ---
-title: “Prayer does not change things. It changes people and people change things.” What
-do you think about the saying? Describe an incident from your personal experience to prove your point.
+title: “Prayer does not change things. It changes people and people change things.” What do you think about the saying? Describe an incident from your personal experience to prove your point.
+
 description: Essay on the importance of Prayers and how it helps us to become a better person.
+
 cover: https://mayankvikash.in/essays/prayer-does-not-change-things-it-changes-people-and-people-change-things-what-do-you-think-about-the-saying-describe-an-incident-from-your-person/Essay-on-the-importance-of-Prayers-and-how-it-helps-us-to-become-better-person.webp
 
 
