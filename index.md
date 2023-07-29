@@ -18,6 +18,10 @@ This website mainly focuses on tech, International Affairs, Defence, Science, an
 
 You can check out the latest five articles from Post:
 
+
+[Unveiling "The Fairest Lady" - A Timeless Tale of Love, Immortality, and Destiny](https://mayankvikash.in/posts/Unveiling-The-Fairest%20Lady-A-Timeless-Tale-of-Love-Immortality-and-Destiny/)
+
+
 [China forced last Indian reporter to leave the country](https://mayankvikash.in/posts/beijing-forces-the-last-indian-reporter-to-leave-china-this-month/)
 
 [China bans US chip manufacturer Micron - first significant move against the US chip industry; What the US can do now and why India could be helpful?
@@ -27,8 +31,6 @@ You can check out the latest five articles from Post:
 
 [Twitter got a new CEO, Linda Yaccarino. Here is everything about her and why she is perfect for the role](https://mayankvikash.in/posts/twitter-got-a-new-ceo-linda-yaccarino-who-is-she/)
 
-[US's F-35 Jets Failed To Identify Russia’s AD Systems](https://mayankvikash.in/posts/US-s-F-35-Jets-Failed-To-Identify-Russia-s-AD-Systems/)
-
 
 
 
@@ -37,7 +39,7 @@ Mayank Vikash is a 16-year-old Indian student passionate about tech and AI and t
 
 This website is made with Jekyll, uses the Cayman theme and is hosted on [GitHub](https://github.com/MayankVikash/mayankvikash.in/).
 
-Last updated Wednesday, June 14, 2023, at 7:34 IST
+Last updated Saturday, July 29, 2023, at 12:24 IST
 
 
 <script type="application/ld+json">
