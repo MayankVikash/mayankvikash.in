@@ -4,9 +4,11 @@ description: A collection of short and long essays on various topics by Mayank V
 
 ---
 
-Last updated 18th June, 2023
+Last updated 30th July 2023
 
-Welcome to Essays. Here you can fin all the essays written by me. This is the place where I will try to publish atleast one essay each week.
+Welcome to Essays. Here you can find all the essays written by me. This is the place where I will try to publish at least one essay each week.
+
+[https://mayankvikash.in/essays/my-first-road-trip/](https://mayankvikash.in/essays/my-first-road-trip/)
 
 [“Prayer does not change things. It changes people and people change things.” What do you think about the saying? Describe an incident from your personal experience to prove your point.](https://mayankvikash.in/essays/prayer-does-not-change-things-it-changes-people-and-people-change-things-what-do-you-think-about-the-saying-describe-an-incident-from-your-person/)
 
