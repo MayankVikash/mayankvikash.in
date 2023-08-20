@@ -7,11 +7,13 @@ description: Welcome to Posts | Mayank Vikash
 
 ## Welcome to Posts | Mayank Vikash
 
-- Last updated July 29, 2023
+- Last updated August 20, 2023
 
 I love making random things and I also post about them here, you can read my posts about what I made and how I made them. You can also find the latest news and development published on this website here as the news section has been moved here. 
 
 Here you will get a sitemap for the latest posts published on this website:
+
+[AI and Algorithms can know about your sexuality better than you do](https://mayankvikash.in/posts/AI-and-Algorithms-can-know-your-sexuallity-better-than-you-do/)
 
 [Unveiling "The Fairest Lady" - A Timeless Tale of Love, Immortality, and Destiny](https://mayankvikash.in/posts/Unveiling-The-Fairest%20Lady-A-Timeless-Tale-of-Love-Immortality-and-Destiny/)
 
