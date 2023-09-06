@@ -7,11 +7,13 @@ description: Welcome to Posts | Mayank Vikash
 
 ## Welcome to Posts | Mayank Vikash
 
-- Last updated August 26, 2023
+- Last updated September 6, 2023
 
 I love making random things and I also post about them here, you can read my posts about what I made and how I made them. You can also find the latest news and developments published on this website here as the news section has been moved here. 
 
 Here you will get a sitemap for the latest posts published on this website:
+
+[Bharat or India? But aren't they both the same?](https://mayankvikash.in/posts/Bharat-or-India-But-arent-they-both-the-same/)
 
 [Chandrayaan 3 - The story of India's lunar missions](https://mayankvikash.in/posts/Chandrayaan-3-the-story-of-india-lunar-missions/)
 
