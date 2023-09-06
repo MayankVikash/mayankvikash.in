@@ -33,7 +33,7 @@ The government of India also seems to share this perspective. They have rejected
 
 *Published on Wednesday, 6th September 2023 at 23:35 IST*
 
-*Last updated Wednesday, September 6, 2023, at 23:45 *
+*Last updated Wednesday, September 6, 2023, at 23:45*
 
 
 
