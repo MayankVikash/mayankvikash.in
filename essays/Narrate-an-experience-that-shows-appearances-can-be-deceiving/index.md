@@ -1,1 +1,18 @@
+---
+title: Narrate an experience that shows appearances can be deceiving
+description: Narrating an experience that shows Appearances can be deceiving
+cover: https://mayankvikash.in/essays/Narrate-an-experience-that-shows-appearances-can-be-deceiving/a-person-in-crowded-railway-station.webp
 
+---
+![A person stading in the railway station dressed in a good looking attire](https://mayankvikash.in/essays/Narrate-an-experience-that-shows-appearances-can-be-deceiving/a-person-in-crowded-railway-station.webp)
+It is a common habit of humans to make judgements at the first look. It does not matter if we are seeing a person or a thing for the first time, our minds do not need to take a second look before coming to a judgement. If we look at a person, we quickly look at his clothes and shoes and come to the assumption that he is poor or rich. The same is the case with things, we decide for ourselves whether a substance is expensive or cheap just by its glittering and glistening. Over time, many learned personalities have taught us to "not judge a book by its cover." Through his various plays and writing, William Shakespeare, the popular eighteenth-century English writer, has sent the message to not fall for outward appearances. I have recently expereinced an incident that explains why is it important to not rely on just outward appearances to make a judgement about a person.
+
+I was travelling by train during my summer holidays. The train made a stop at Patna Junction. I got out to bring snacks for my cousin. When I was returning to board the train, I saw two railway police officers following a shabby-looking. A few moments later, they grabbed him and confronted him. The crowd gathered around them. The officers and the person were having a heated argument and the person pulled out his identity card and showed it to the officers. They bowed a little to him and made their way out of the platform. At first, I could not understand what was going on, so I asked a person nearby what happened. He said that the railway officers were looking for a counterfeit who was smuggling a precious diamond necklace out of this city. The officers got suspicious of this poor person who had been roaming around the platform since morning as if waiting for someone. When they confronted him, they found out that this person was an undercover high-ranking officer who was following the counterfeit, who was a well-dressed man. When he found out that the railway officers met him on the way and greeted him - judging by the looks that he may be a prominent person -  he got furious and started scolding them.
+
+From this incident, we can all learn the lesson that we should never judge anything just by its outward appearance as it is very easy to add a layer of gold on a copper utensil. The policemen had met the counterfeit earlier and judging by his attire, they thought that he may be a prominent person who had come here for a business meet, but in reality, he was not what they had thought him to be. A few moments later, they had caught a poor fellow in a ragged dress who came to be their senior. The policemen had made two mistakes in a single day by letting go of a criminal and apprehending an undercover cop both mistakes because they judge the person from their outward appearance. There are several incidents taking place every day where people misjudge someone and sooner or later that person betrays you. We should learn to understand a person before making our judgement about them.
+
+*Written by Mayank Vikash*
+
+*Published on Friday, 22nd September 2023 at 21:30 IST*
+
+*Last updated on Friday, September 22, 2023, at 21:40 IST*
