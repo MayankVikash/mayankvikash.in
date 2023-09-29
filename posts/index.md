@@ -13,7 +13,7 @@ I love making random things and I also post about them here, you can read my pos
 
 Here you will get a sitemap for the latest posts published on this website:
 
-[How extensive syllabus impact the learning of the students](https://mayankvikash.in/posts/the-problem-with-vast-syllabus/)
+[The Problem with vast Syllabus](https://mayankvikash.in/posts/the-problem-with-vast-syllabus/)
 
 [Bharat or India? But aren't they both the same?](https://mayankvikash.in/posts/Bharat-or-India-But-arent-they-both-the-same/)
 
