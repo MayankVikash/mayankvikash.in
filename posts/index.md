@@ -2,16 +2,20 @@
 layout: default
 title: Posts
 description: Welcome to Posts | Mayank Vikash
+published: 2023-10-13T17:46:19Z
+updated: 2023-10-13T17:46:19Z
 
 ---
 
 ## Welcome to Posts | Mayank Vikash
 
-- Last updated October 8, 2023
+- Last updated October 13, 2023
 
 I love making random things and I also post about them here, you can read my posts about what I made and how I made them. You can also find the latest news and developments published on this website here as the news section has been moved here. 
 
 Here you will get a sitemap for the latest posts published on this website:
+
+[Microsoft has Completed the Activision Blizzard Deal](https://mayankvikash.in/posts/Microsoft-has-Completed-the-Activision-Blizzard-Deal/)
 
 [Israel declares State of War](https://mayankvikash.in/posts/israel-declared-state-of-war/)
 
