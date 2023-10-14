@@ -2,6 +2,7 @@
 title: Microsoft has Completed the Activision Blizzard Deal
 description: Xbox Game Studios is now the parent company of Activision Blizzard
 cover: https://mayankvikash.in/posts/Microsoft-has-Completed-the-Activision-Blizzard-Deal/Microsoft-has-Completed-the-Activision-Blizzard-Deal.webp
+url: https://mayankvikash.in/posts/Microsoft-has-Completed-the-Activision-Blizzard-Deal/
 published: 2023-10-13T17:43:06Z
 updated: 2023-10-13T17:43:34Z
 
