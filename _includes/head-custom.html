@@ -30,7 +30,7 @@
 <!-- Schema tag Google article -->
 
 
- <script type="application/ld+json">
+<!--  <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
@@ -52,7 +52,36 @@
     "url": "https://mayankvikash.in/"
   },
     }
-    </script>
+    </script> -->
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ page.url }}"
+  },
+  "headline": "{{ page.title }}",
+  "description": "{{ page.description }}",
+  "image": "{{ page.cover }}",  
+  "author": {
+    "@type": "Person",
+    "name": "Mayank Vikash",
+    "url": "https://mayankvikash.in/about-me/"
+  },  
+  "publisher": {
+    "@type": "Organization",
+    "name": "MayankVikash.in",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://mayankvikash.in/assests/img/mvlogo2023.png"
+    }
+  },
+  "datePublished": "{{ page.published }}",
+  "dateModified": "{{ page.updated }}"
+}
+</script>
 
 
 
