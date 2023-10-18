@@ -9,11 +9,13 @@ updated: 2023-10-13T17:46:19Z
 
 ## Welcome to Posts | Mayank Vikash
 
-- Last updated October 14, 2023
+- Last updated October 19, 2023
 
 I love making random things and I also post about them here, you can read my posts about what I made and how I made them. You can also find the latest news and developments published on this website here as the news section has been moved here. 
 
 Here you will get a sitemap for the latest posts published on this website:
+
+[Everything about Gaza Hospital Blast](https://mayankvikash.in/posts/Everything-about-gaza-hospital-blast/)
 
 [Israeli National was Stabbed in China](https://mayankvikash.in/posts/Israeli-national-got-stabbed-in-china/)
 
